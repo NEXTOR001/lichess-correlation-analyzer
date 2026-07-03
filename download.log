@@ -1,0 +1,1084 @@
+[2026-07-03 00:16:12] Initializing Lichess Data Downloader with DB: lichess_players.db, Log: download.log, Target: 100000, Batch: 300...
+[2026-07-03 00:16:12] Starting Phase 1: Fetching usernames from team 'lichess-swiss'...
+[2026-07-03 00:16:13] Failed to fetch team members: 429 - {"error":"Please only run 2 request(s) at a time"}
+[2026-07-03 00:16:13] Starting Phase 2: Downloading user profiles. Currently completed: 0/100000
+[2026-07-03 00:16:13] No more pending or failed players in the queue. Fetching more usernames...
+[2026-07-03 00:16:13] Starting Phase 1: Fetching usernames from team 'lichess-swiss'...
+[2026-07-03 00:16:14] Failed to fetch team members: 429 - {"error":"Please only run 2 request(s) at a time"}
+[2026-07-03 00:16:14] Unable to find or fetch more usernames. Stopping.
+[2026-07-03 00:16:14] Execution completed successfully.
+[2026-07-03 00:16:14] Database connection closed.
+[2026-07-03 00:16:26] Initializing Lichess Data Downloader with DB: lichess_players.db, Log: download.log, Target: 100000, Batch: 300...
+[2026-07-03 00:16:26] Starting Phase 1: Fetching usernames from team 'lichess-swiss'...
+[2026-07-03 00:16:26] HTTP 429 Too Many Requests in Phase 1. Waiting 60 seconds...
+[2026-07-03 00:17:46] Queued 1000 players...
+[2026-07-03 00:18:06] Queued 2000 players...
+[2026-07-03 00:18:26] Queued 3000 players...
+[2026-07-03 00:18:46] Queued 4000 players...
+[2026-07-03 00:19:06] Queued 5000 players...
+[2026-07-03 00:19:26] Queued 6000 players...
+[2026-07-03 00:19:46] Queued 7000 players...
+[2026-07-03 00:20:06] Queued 8000 players...
+[2026-07-03 00:20:26] Queued 9000 players...
+[2026-07-03 00:20:47] Queued 10000 players...
+[2026-07-03 00:21:07] Queued 11000 players...
+[2026-07-03 00:21:27] Queued 12000 players...
+[2026-07-03 00:21:47] Queued 13000 players...
+[2026-07-03 00:22:07] Queued 14000 players...
+[2026-07-03 00:22:26] Queued 15000 players...
+[2026-07-03 00:22:47] Queued 16000 players...
+[2026-07-03 00:23:06] Queued 17000 players...
+[2026-07-03 00:23:26] Queued 18000 players...
+[2026-07-03 00:23:46] Queued 19000 players...
+[2026-07-03 00:24:07] Queued 20000 players...
+[2026-07-03 00:24:26] Queued 21000 players...
+[2026-07-03 00:24:40] Initializing Lichess Data Downloader with DB: lichess_players.db, Log: download.log, Target: 100000, Batch: 300...
+[2026-07-03 00:24:40] Starting Phase 1: Fetching usernames from team 'lichess-swiss' (all_usernames=True)...
+[2026-07-03 00:25:00] Queued 21002 players...
+[2026-07-03 00:25:20] Queued 21002 players...
+[2026-07-03 00:25:40] Queued 21002 players...
+[2026-07-03 00:26:00] Queued 21002 players...
+[2026-07-03 00:26:20] Queued 21002 players...
+[2026-07-03 00:26:40] Queued 21002 players...
+[2026-07-03 00:27:00] Queued 21002 players...
+[2026-07-03 00:27:20] Queued 21002 players...
+[2026-07-03 00:27:40] Queued 21002 players...
+[2026-07-03 00:28:00] Queued 21002 players...
+[2026-07-03 00:28:20] Queued 21002 players...
+[2026-07-03 00:28:40] Queued 21002 players...
+[2026-07-03 00:29:00] Queued 21002 players...
+[2026-07-03 00:29:20] Queued 21002 players...
+[2026-07-03 00:29:40] Queued 21002 players...
+[2026-07-03 00:30:00] Queued 21002 players...
+[2026-07-03 00:30:20] Queued 21002 players...
+[2026-07-03 00:30:40] Queued 21002 players...
+[2026-07-03 00:31:00] Queued 21002 players...
+[2026-07-03 00:31:20] Queued 21002 players...
+[2026-07-03 00:31:40] Queued 21002 players...
+[2026-07-03 00:32:00] Queued 22000 players...
+[2026-07-03 00:32:20] Queued 23000 players...
+[2026-07-03 00:32:40] Queued 24000 players...
+[2026-07-03 00:33:00] Queued 25000 players...
+[2026-07-03 00:33:20] Queued 26000 players...
+[2026-07-03 00:33:40] Queued 27000 players...
+[2026-07-03 00:34:00] Queued 28000 players...
+[2026-07-03 00:34:20] Queued 29000 players...
+[2026-07-03 00:34:40] Queued 30000 players...
+[2026-07-03 00:35:00] Queued 31000 players...
+[2026-07-03 00:36:12] Initializing Lichess Data Downloader with DB: lichess_players.db, Log: download.log, Target: 100000, Batch: 300, Skip: 30000...
+[2026-07-03 00:36:12] Starting Phase 1: Fetching usernames from team 'lichess-swiss' (all_usernames=True, skip=30000)...
+[2026-07-03 00:36:13] Skipping first 30000 entries from the stream...
+[2026-07-03 00:39:32] Skipped 10000/30000 entries...
+[2026-07-03 00:42:52] Skipped 20000/30000 entries...
+[2026-07-03 00:46:12] Skipped 30000/30000 entries...
+[2026-07-03 00:49:32] Queued 39994 players...
+[2026-07-03 00:52:52] Queued 49994 players...
+[2026-07-03 00:56:12] Queued 59994 players...
+[2026-07-03 00:59:33] Queued 69994 players...
+[2026-07-03 01:02:53] Queued 79994 players...
+[2026-07-03 01:06:13] Queued 89994 players...
+[2026-07-03 01:09:33] Queued 99994 players...
+[2026-07-03 01:12:53] Queued 109994 players...
+[2026-07-03 01:16:15] Queued 119994 players...
+[2026-07-03 01:19:35] Queued 129994 players...
+[2026-07-03 01:22:55] Queued 139994 players...
+[2026-07-03 01:26:15] Queued 149994 players...
+[2026-07-03 01:29:35] Queued 159994 players...
+[2026-07-03 01:32:56] Queued 169994 players...
+[2026-07-03 01:36:15] Queued 179994 players...
+[2026-07-03 01:39:44] Queued 189994 players...
+[2026-07-03 01:43:04] Queued 199994 players...
+[2026-07-03 01:46:24] Queued 209994 players...
+[2026-07-03 01:49:44] Queued 219994 players...
+[2026-07-03 01:53:04] Queued 229994 players...
+[2026-07-03 01:56:24] Queued 239994 players...
+[2026-07-03 01:59:44] Queued 249994 players...
+[2026-07-03 01:59:45] Exception during Phase 1: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+[2026-07-03 01:59:45] Skipping Phase 2 because --only-usernames was specified.
+[2026-07-03 01:59:45] Execution completed successfully.
+[2026-07-03 01:59:45] Database connection closed.
+[2026-07-03 01:59:49] Initializing Lichess Data Downloader with DB: lichess_players.db, Log: download.log, Target: 100000, Batch: 300, Skip: 250000...
+[2026-07-03 01:59:49] Starting Phase 1: Fetching usernames from team 'lichess-swiss' (all_usernames=True, skip=250000)...
+[2026-07-03 01:59:50] Skipping first 250000 entries from the stream...
+[2026-07-03 02:03:09] Skipped 10000/250000 entries...
+[2026-07-03 02:06:29] Skipped 20000/250000 entries...
+[2026-07-03 02:09:49] Skipped 30000/250000 entries...
+[2026-07-03 02:13:09] Skipped 40000/250000 entries...
+[2026-07-03 02:16:29] Skipped 50000/250000 entries...
+[2026-07-03 02:19:49] Skipped 60000/250000 entries...
+[2026-07-03 02:23:09] Skipped 70000/250000 entries...
+[2026-07-03 02:26:29] Skipped 80000/250000 entries...
+[2026-07-03 02:29:49] Skipped 90000/250000 entries...
+[2026-07-03 02:33:11] Skipped 100000/250000 entries...
+[2026-07-03 02:36:31] Skipped 110000/250000 entries...
+[2026-07-03 02:39:51] Skipped 120000/250000 entries...
+[2026-07-03 02:43:11] Skipped 130000/250000 entries...
+[2026-07-03 02:46:48] Skipped 140000/250000 entries...
+[2026-07-03 02:50:08] Skipped 150000/250000 entries...
+[2026-07-03 02:53:28] Skipped 160000/250000 entries...
+[2026-07-03 02:56:48] Skipped 170000/250000 entries...
+[2026-07-03 03:00:08] Skipped 180000/250000 entries...
+[2026-07-03 03:03:28] Skipped 190000/250000 entries...
+[2026-07-03 03:06:48] Skipped 200000/250000 entries...
+[2026-07-03 03:10:07] Skipped 210000/250000 entries...
+[2026-07-03 03:13:27] Skipped 220000/250000 entries...
+[2026-07-03 03:16:49] Skipped 230000/250000 entries...
+[2026-07-03 03:20:07] Skipped 240000/250000 entries...
+[2026-07-03 03:23:28] Skipped 250000/250000 entries...
+[2026-07-03 03:23:28] Exception during Phase 1: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+[2026-07-03 03:23:28] Skipping Phase 2 because --only-usernames was specified.
+[2026-07-03 03:23:28] Execution completed successfully.
+[2026-07-03 03:23:28] Database connection closed.
+[2026-07-03 03:23:43] Initializing Lichess Data Downloader with DB: lichess_players.db, Log: download.log, Target: 100000, Batch: 300, Skip: 0...
+[2026-07-03 03:23:43] Database already contains 249994 players. Skipping Phase 1.
+[2026-07-03 03:23:43] Starting Phase 2: Downloading user profiles. Currently completed: 0/100000
+[2026-07-03 03:23:45] Batch processed. Fetched: 300/300. Total Completed: 300/100000 (0.30%). Speed: 14194.0 profiles/min. ETA: 0.12 hours.
+[2026-07-03 03:23:46] Batch processed. Fetched: 300/300. Total Completed: 600/100000 (0.60%). Speed: 17828.7 profiles/min. ETA: 0.09 hours.
+[2026-07-03 03:23:47] Batch processed. Fetched: 300/300. Total Completed: 900/100000 (0.90%). Speed: 19168.9 profiles/min. ETA: 0.09 hours.
+[2026-07-03 03:23:49] Batch processed. Fetched: 300/300. Total Completed: 1200/100000 (1.20%). Speed: 16391.7 profiles/min. ETA: 0.10 hours.
+[2026-07-03 03:23:51] Batch processed. Fetched: 300/300. Total Completed: 1500/100000 (1.50%). Speed: 15921.0 profiles/min. ETA: 0.10 hours.
+[2026-07-03 03:23:53] Batch processed. Fetched: 300/300. Total Completed: 1800/100000 (1.80%). Speed: 15515.0 profiles/min. ETA: 0.11 hours.
+[2026-07-03 03:23:56] Batch processed. Fetched: 300/300. Total Completed: 2100/100000 (2.10%). Speed: 13624.8 profiles/min. ETA: 0.12 hours.
+[2026-07-03 03:23:58] Batch processed. Fetched: 300/300. Total Completed: 2400/100000 (2.40%). Speed: 13489.0 profiles/min. ETA: 0.12 hours.
+[2026-07-03 03:23:59] Batch processed. Fetched: 300/300. Total Completed: 2700/100000 (2.70%). Speed: 13781.6 profiles/min. ETA: 0.12 hours.
+[2026-07-03 03:24:04] Batch processed. Fetched: 300/300. Total Completed: 3000/100000 (3.00%). Speed: 11136.8 profiles/min. ETA: 0.15 hours.
+[2026-07-03 03:24:10] Batch processed. Fetched: 300/300. Total Completed: 3300/100000 (3.30%). Speed: 9400.8 profiles/min. ETA: 0.17 hours.
+[2026-07-03 03:24:11] Batch processed. Fetched: 300/300. Total Completed: 3600/100000 (3.60%). Speed: 9912.1 profiles/min. ETA: 0.16 hours.
+[2026-07-03 03:24:13] Batch processed. Fetched: 300/300. Total Completed: 3900/100000 (3.90%). Speed: 9822.0 profiles/min. ETA: 0.16 hours.
+[2026-07-03 03:24:15] Batch processed. Fetched: 300/300. Total Completed: 4200/100000 (4.20%). Speed: 10264.0 profiles/min. ETA: 0.16 hours.
+[2026-07-03 03:24:17] Batch processed. Fetched: 300/300. Total Completed: 4500/100000 (4.50%). Speed: 10398.4 profiles/min. ETA: 0.15 hours.
+[2026-07-03 03:24:18] Batch processed. Fetched: 300/300. Total Completed: 4800/100000 (4.80%). Speed: 10565.8 profiles/min. ETA: 0.15 hours.
+[2026-07-03 03:24:20] Batch processed. Fetched: 300/300. Total Completed: 5100/100000 (5.10%). Speed: 10743.4 profiles/min. ETA: 0.15 hours.
+[2026-07-03 03:24:22] Batch processed. Fetched: 300/300. Total Completed: 5400/100000 (5.40%). Speed: 10901.1 profiles/min. ETA: 0.14 hours.
+[2026-07-03 03:24:23] Batch processed. Fetched: 300/300. Total Completed: 5700/100000 (5.70%). Speed: 11239.0 profiles/min. ETA: 0.14 hours.
+[2026-07-03 03:24:25] Batch processed. Fetched: 300/300. Total Completed: 6000/100000 (6.00%). Speed: 11437.8 profiles/min. ETA: 0.14 hours.
+[2026-07-03 03:24:26] Batch processed. Fetched: 300/300. Total Completed: 6300/100000 (6.30%). Speed: 11731.2 profiles/min. ETA: 0.13 hours.
+[2026-07-03 03:24:28] Batch processed. Fetched: 300/300. Total Completed: 6600/100000 (6.60%). Speed: 11834.1 profiles/min. ETA: 0.13 hours.
+[2026-07-03 03:24:29] Batch processed. Fetched: 300/300. Total Completed: 6900/100000 (6.90%). Speed: 11940.5 profiles/min. ETA: 0.13 hours.
+[2026-07-03 03:24:31] Batch processed. Fetched: 300/300. Total Completed: 7200/100000 (7.20%). Speed: 12198.3 profiles/min. ETA: 0.13 hours.
+[2026-07-03 03:24:32] Batch processed. Fetched: 300/300. Total Completed: 7500/100000 (7.50%). Speed: 12446.7 profiles/min. ETA: 0.12 hours.
+[2026-07-03 03:24:34] Batch processed. Fetched: 300/300. Total Completed: 7800/100000 (7.80%). Speed: 12499.9 profiles/min. ETA: 0.12 hours.
+[2026-07-03 03:24:35] Batch processed. Fetched: 300/300. Total Completed: 8100/100000 (8.10%). Speed: 12704.4 profiles/min. ETA: 0.12 hours.
+[2026-07-03 03:24:37] Batch processed. Fetched: 300/300. Total Completed: 8400/100000 (8.40%). Speed: 12776.7 profiles/min. ETA: 0.12 hours.
+[2026-07-03 03:24:38] Batch processed. Fetched: 300/300. Total Completed: 8700/100000 (8.70%). Speed: 12979.7 profiles/min. ETA: 0.12 hours.
+[2026-07-03 03:24:40] Batch processed. Fetched: 300/300. Total Completed: 9000/100000 (9.00%). Speed: 13058.8 profiles/min. ETA: 0.12 hours.
+[2026-07-03 03:24:41] Batch processed. Fetched: 300/300. Total Completed: 9300/100000 (9.30%). Speed: 13136.2 profiles/min. ETA: 0.12 hours.
+[2026-07-03 03:24:43] Batch processed. Fetched: 300/300. Total Completed: 9600/100000 (9.60%). Speed: 13320.9 profiles/min. ETA: 0.11 hours.
+[2026-07-03 03:24:44] Batch processed. Fetched: 300/300. Total Completed: 9900/100000 (9.90%). Speed: 13393.2 profiles/min. ETA: 0.11 hours.
+[2026-07-03 03:24:45] Batch processed. Fetched: 300/300. Total Completed: 10200/100000 (10.20%). Speed: 13570.1 profiles/min. ETA: 0.11 hours.
+[2026-07-03 03:24:47] Batch processed. Fetched: 300/300. Total Completed: 10500/100000 (10.50%). Speed: 13614.4 profiles/min. ETA: 0.11 hours.
+[2026-07-03 03:24:48] Batch processed. Fetched: 300/300. Total Completed: 10800/100000 (10.80%). Speed: 13782.1 profiles/min. ETA: 0.11 hours.
+[2026-07-03 03:24:50] Batch processed. Fetched: 300/300. Total Completed: 11100/100000 (11.10%). Speed: 13838.5 profiles/min. ETA: 0.11 hours.
+[2026-07-03 03:24:51] Batch processed. Fetched: 300/300. Total Completed: 11400/100000 (11.40%). Speed: 14005.8 profiles/min. ETA: 0.11 hours.
+[2026-07-03 03:24:52] Batch processed. Fetched: 300/300. Total Completed: 11700/100000 (11.70%). Speed: 14161.1 profiles/min. ETA: 0.10 hours.
+[2026-07-03 03:24:54] Batch processed. Fetched: 300/300. Total Completed: 12000/100000 (12.00%). Speed: 14211.5 profiles/min. ETA: 0.10 hours.
+[2026-07-03 03:24:55] HTTP 429 Too Many Requests. Waiting 60 seconds...
+[2026-07-03 03:25:56] HTTP 429 Too Many Requests. Waiting 60 seconds...
+[2026-07-03 03:26:56] HTTP 429 Too Many Requests. Waiting 60 seconds...
+[2026-07-03 03:27:57] HTTP 429 Too Many Requests. Waiting 60 seconds...
+[2026-07-03 03:28:39] Initializing Lichess Data Downloader with DB: lichess_players.db, Log: download.log, Target: 100000, Batch: 300, Skip: 0...
+[2026-07-03 03:28:39] Database already contains 249994 players. Skipping Phase 1.
+[2026-07-03 03:28:39] Starting Phase 2: Downloading user profiles. Currently completed: 12000/100000
+[2026-07-03 03:28:40] HTTP 429 Too Many Requests. Increasing normal delay to 2.00 seconds.
+[2026-07-03 03:28:40] Waiting 60 seconds before retry (429 count: 1)...
+[2026-07-03 03:29:41] HTTP 429 Too Many Requests. Increasing normal delay to 2.50 seconds.
+[2026-07-03 03:29:41] Waiting 120 seconds before retry (429 count: 2)...
+[2026-07-03 03:31:42] HTTP 429 Too Many Requests. Increasing normal delay to 3.00 seconds.
+[2026-07-03 03:31:42] Waiting 180 seconds before retry (429 count: 3)...
+[2026-07-03 03:34:43] Batch processed. Fetched: 300/300. Total Completed: 12300/100000 (12.30%). Speed: 49.5 profiles/min. ETA: 29.52 hours.
+[2026-07-03 03:34:47] Batch processed. Fetched: 300/300. Total Completed: 12600/100000 (12.60%). Speed: 98.8 profiles/min. ETA: 14.74 hours.
+[2026-07-03 03:34:51] Batch processed. Fetched: 300/300. Total Completed: 12900/100000 (12.90%). Speed: 147.7 profiles/min. ETA: 9.83 hours.
+[2026-07-03 03:34:55] Batch processed. Fetched: 300/300. Total Completed: 13200/100000 (13.20%). Speed: 196.4 profiles/min. ETA: 7.37 hours.
+[2026-07-03 03:35:00] Batch processed. Fetched: 300/300. Total Completed: 13500/100000 (13.50%). Speed: 244.4 profiles/min. ETA: 5.90 hours.
+[2026-07-03 03:35:04] Batch processed. Fetched: 300/300. Total Completed: 13800/100000 (13.80%). Speed: 292.5 profiles/min. ETA: 4.91 hours.
+[2026-07-03 03:35:08] Batch processed. Fetched: 300/300. Total Completed: 14100/100000 (14.10%). Speed: 339.9 profiles/min. ETA: 4.21 hours.
+[2026-07-03 03:35:12] Batch processed. Fetched: 300/300. Total Completed: 14400/100000 (14.40%). Speed: 387.7 profiles/min. ETA: 3.68 hours.
+[2026-07-03 03:35:16] Batch processed. Fetched: 300/300. Total Completed: 14700/100000 (14.70%). Speed: 434.9 profiles/min. ETA: 3.27 hours.
+[2026-07-03 03:35:20] Reducing normal delay to 2.90 seconds after 10 consecutive successes.
+[2026-07-03 03:35:20] Batch processed. Fetched: 300/300. Total Completed: 15000/100000 (15.00%). Speed: 482.2 profiles/min. ETA: 2.94 hours.
+[2026-07-03 03:35:23] Batch processed. Fetched: 300/300. Total Completed: 15300/100000 (15.30%). Speed: 529.4 profiles/min. ETA: 2.67 hours.
+[2026-07-03 03:35:28] Batch processed. Fetched: 300/300. Total Completed: 15600/100000 (15.60%). Speed: 575.6 profiles/min. ETA: 2.44 hours.
+[2026-07-03 03:35:32] Batch processed. Fetched: 300/300. Total Completed: 15900/100000 (15.90%). Speed: 620.9 profiles/min. ETA: 2.26 hours.
+[2026-07-03 03:35:36] Batch processed. Fetched: 300/300. Total Completed: 16200/100000 (16.20%). Speed: 667.3 profiles/min. ETA: 2.09 hours.
+[2026-07-03 03:35:40] Batch processed. Fetched: 300/300. Total Completed: 16500/100000 (16.50%). Speed: 713.3 profiles/min. ETA: 1.95 hours.
+[2026-07-03 03:35:43] Batch processed. Fetched: 300/300. Total Completed: 16800/100000 (16.80%). Speed: 759.4 profiles/min. ETA: 1.83 hours.
+[2026-07-03 03:35:47] Batch processed. Fetched: 300/300. Total Completed: 17100/100000 (17.10%). Speed: 804.3 profiles/min. ETA: 1.72 hours.
+[2026-07-03 03:35:51] Batch processed. Fetched: 300/300. Total Completed: 17400/100000 (17.40%). Speed: 848.9 profiles/min. ETA: 1.62 hours.
+[2026-07-03 03:35:55] Batch processed. Fetched: 300/300. Total Completed: 17700/100000 (17.70%). Speed: 894.3 profiles/min. ETA: 1.53 hours.
+[2026-07-03 03:35:59] Reducing normal delay to 2.80 seconds after 10 consecutive successes.
+[2026-07-03 03:35:59] Batch processed. Fetched: 300/300. Total Completed: 18000/100000 (18.00%). Speed: 939.4 profiles/min. ETA: 1.45 hours.
+[2026-07-03 03:36:03] Batch processed. Fetched: 300/300. Total Completed: 18300/100000 (18.30%). Speed: 983.0 profiles/min. ETA: 1.39 hours.
+[2026-07-03 03:36:07] Batch processed. Fetched: 300/300. Total Completed: 18600/100000 (18.60%). Speed: 1026.5 profiles/min. ETA: 1.32 hours.
+[2026-07-03 03:36:11] Batch processed. Fetched: 300/300. Total Completed: 18900/100000 (18.90%). Speed: 1070.4 profiles/min. ETA: 1.26 hours.
+[2026-07-03 03:36:15] Batch processed. Fetched: 300/300. Total Completed: 19200/100000 (19.20%). Speed: 1113.5 profiles/min. ETA: 1.21 hours.
+[2026-07-03 03:36:18] Batch processed. Fetched: 300/300. Total Completed: 19500/100000 (19.50%). Speed: 1157.5 profiles/min. ETA: 1.16 hours.
+[2026-07-03 03:36:22] Batch processed. Fetched: 300/300. Total Completed: 19800/100000 (19.80%). Speed: 1201.2 profiles/min. ETA: 1.11 hours.
+[2026-07-03 03:36:26] Batch processed. Fetched: 300/300. Total Completed: 20100/100000 (20.10%). Speed: 1244.8 profiles/min. ETA: 1.07 hours.
+[2026-07-03 03:36:30] Batch processed. Fetched: 300/300. Total Completed: 20400/100000 (20.40%). Speed: 1287.8 profiles/min. ETA: 1.03 hours.
+[2026-07-03 03:36:33] Batch processed. Fetched: 300/300. Total Completed: 20700/100000 (20.70%). Speed: 1331.2 profiles/min. ETA: 0.99 hours.
+[2026-07-03 03:36:37] Reducing normal delay to 2.70 seconds after 10 consecutive successes.
+[2026-07-03 03:36:37] Batch processed. Fetched: 300/300. Total Completed: 21000/100000 (21.00%). Speed: 1373.6 profiles/min. ETA: 0.96 hours.
+[2026-07-03 03:36:40] Batch processed. Fetched: 300/300. Total Completed: 21300/100000 (21.30%). Speed: 1416.6 profiles/min. ETA: 0.93 hours.
+[2026-07-03 03:36:44] Batch processed. Fetched: 300/300. Total Completed: 21600/100000 (21.60%). Speed: 1458.6 profiles/min. ETA: 0.90 hours.
+[2026-07-03 03:36:48] Batch processed. Fetched: 300/300. Total Completed: 21900/100000 (21.90%). Speed: 1501.4 profiles/min. ETA: 0.87 hours.
+[2026-07-03 03:36:51] Batch processed. Fetched: 300/300. Total Completed: 22200/100000 (22.20%). Speed: 1543.7 profiles/min. ETA: 0.84 hours.
+[2026-07-03 03:36:55] Batch processed. Fetched: 300/300. Total Completed: 22500/100000 (22.50%). Speed: 1584.8 profiles/min. ETA: 0.82 hours.
+[2026-07-03 03:36:58] Batch processed. Fetched: 300/300. Total Completed: 22800/100000 (22.80%). Speed: 1626.7 profiles/min. ETA: 0.79 hours.
+[2026-07-03 03:37:02] Batch processed. Fetched: 300/300. Total Completed: 23100/100000 (23.10%). Speed: 1668.8 profiles/min. ETA: 0.77 hours.
+[2026-07-03 03:37:06] Batch processed. Fetched: 300/300. Total Completed: 23400/100000 (23.40%). Speed: 1709.5 profiles/min. ETA: 0.75 hours.
+[2026-07-03 03:37:09] Batch processed. Fetched: 300/300. Total Completed: 23700/100000 (23.70%). Speed: 1750.6 profiles/min. ETA: 0.73 hours.
+[2026-07-03 03:37:13] Reducing normal delay to 2.60 seconds after 10 consecutive successes.
+[2026-07-03 03:37:13] Batch processed. Fetched: 300/300. Total Completed: 24000/100000 (24.00%). Speed: 1790.9 profiles/min. ETA: 0.71 hours.
+[2026-07-03 03:37:16] HTTP 429 Too Many Requests. Increasing normal delay to 3.10 seconds.
+[2026-07-03 03:37:16] Waiting 60 seconds before retry (429 count: 1)...
+[2026-07-03 03:38:17] HTTP 429 Too Many Requests. Increasing normal delay to 3.60 seconds.
+[2026-07-03 03:38:17] Waiting 120 seconds before retry (429 count: 2)...
+[2026-07-03 03:40:18] HTTP 429 Too Many Requests. Increasing normal delay to 4.10 seconds.
+[2026-07-03 03:40:18] Waiting 180 seconds before retry (429 count: 3)...
+[2026-07-03 03:43:18] HTTP 429 Too Many Requests. Increasing normal delay to 4.60 seconds.
+[2026-07-03 03:43:18] Waiting 240 seconds before retry (429 count: 4)...
+[2026-07-03 11:06:57] Initializing Lichess Data Downloader with DB: lichess_players.db, Log: download.log, Target: 100000, Batch: 300, Skip: 0...
+[2026-07-03 11:06:57] Database already contains 249994 players. Skipping Phase 1.
+[2026-07-03 11:06:57] Starting Phase 2: Downloading user profiles. Currently completed: 24000/100000
+[2026-07-03 11:06:59] Batch processed. Fetched: 300/300. Total Completed: 24300/100000 (24.30%). Speed: 15219.6 profiles/min. ETA: 0.08 hours.
+[2026-07-03 11:07:01] Batch processed. Fetched: 300/300. Total Completed: 24600/100000 (24.60%). Speed: 14431.7 profiles/min. ETA: 0.09 hours.
+[2026-07-03 11:07:04] Batch processed. Fetched: 300/300. Total Completed: 24900/100000 (24.90%). Speed: 16053.4 profiles/min. ETA: 0.08 hours.
+[2026-07-03 11:07:06] Batch processed. Fetched: 300/300. Total Completed: 25200/100000 (25.20%). Speed: 17578.7 profiles/min. ETA: 0.07 hours.
+[2026-07-03 11:07:08] Batch processed. Fetched: 300/300. Total Completed: 25500/100000 (25.50%). Speed: 18552.3 profiles/min. ETA: 0.07 hours.
+[2026-07-03 11:07:11] Batch processed. Fetched: 300/300. Total Completed: 25800/100000 (25.80%). Speed: 19017.1 profiles/min. ETA: 0.07 hours.
+[2026-07-03 11:07:13] Batch processed. Fetched: 300/300. Total Completed: 26100/100000 (26.10%). Speed: 19663.6 profiles/min. ETA: 0.06 hours.
+[2026-07-03 11:07:15] Batch processed. Fetched: 300/300. Total Completed: 26400/100000 (26.40%). Speed: 20295.0 profiles/min. ETA: 0.06 hours.
+[2026-07-03 11:07:17] Batch processed. Fetched: 300/300. Total Completed: 26700/100000 (26.70%). Speed: 20537.6 profiles/min. ETA: 0.06 hours.
+[2026-07-03 11:07:20] Reducing normal delay to 1.40 seconds after 10 consecutive successes.
+[2026-07-03 11:07:20] Batch processed. Fetched: 300/300. Total Completed: 27000/100000 (27.00%). Speed: 20711.4 profiles/min. ETA: 0.06 hours.
+[2026-07-03 11:07:22] Batch processed. Fetched: 300/300. Total Completed: 27300/100000 (27.30%). Speed: 20469.4 profiles/min. ETA: 0.06 hours.
+[2026-07-03 11:07:24] Batch processed. Fetched: 300/300. Total Completed: 27600/100000 (27.60%). Speed: 20691.8 profiles/min. ETA: 0.06 hours.
+[2026-07-03 11:07:27] Batch processed. Fetched: 300/300. Total Completed: 27900/100000 (27.90%). Speed: 20810.6 profiles/min. ETA: 0.06 hours.
+[2026-07-03 11:07:29] Batch processed. Fetched: 300/300. Total Completed: 28200/100000 (28.20%). Speed: 21025.3 profiles/min. ETA: 0.06 hours.
+[2026-07-03 11:07:31] Batch processed. Fetched: 300/300. Total Completed: 28500/100000 (28.50%). Speed: 21093.7 profiles/min. ETA: 0.06 hours.
+[2026-07-03 11:07:33] Batch processed. Fetched: 300/300. Total Completed: 28800/100000 (28.80%). Speed: 21204.5 profiles/min. ETA: 0.06 hours.
+[2026-07-03 11:07:35] Batch processed. Fetched: 300/300. Total Completed: 29100/100000 (29.10%). Speed: 21288.8 profiles/min. ETA: 0.06 hours.
+[2026-07-03 11:07:38] Batch processed. Fetched: 300/300. Total Completed: 29400/100000 (29.40%). Speed: 21206.1 profiles/min. ETA: 0.06 hours.
+[2026-07-03 11:07:40] Batch processed. Fetched: 300/300. Total Completed: 29700/100000 (29.70%). Speed: 21164.3 profiles/min. ETA: 0.06 hours.
+[2026-07-03 11:07:42] Reducing normal delay to 1.30 seconds after 10 consecutive successes.
+[2026-07-03 11:07:42] Batch processed. Fetched: 300/300. Total Completed: 30000/100000 (30.00%). Speed: 21168.4 profiles/min. ETA: 0.06 hours.
+[2026-07-03 11:07:44] Batch processed. Fetched: 300/300. Total Completed: 30300/100000 (30.30%). Speed: 21090.9 profiles/min. ETA: 0.06 hours.
+[2026-07-03 11:07:47] Batch processed. Fetched: 300/300. Total Completed: 30600/100000 (30.60%). Speed: 21064.7 profiles/min. ETA: 0.05 hours.
+[2026-07-03 11:07:49] Batch processed. Fetched: 300/300. Total Completed: 30900/100000 (30.90%). Speed: 20949.8 profiles/min. ETA: 0.05 hours.
+[2026-07-03 11:07:51] Batch processed. Fetched: 300/300. Total Completed: 31200/100000 (31.20%). Speed: 20868.4 profiles/min. ETA: 0.05 hours.
+[2026-07-03 11:07:53] Batch processed. Fetched: 300/300. Total Completed: 31500/100000 (31.50%). Speed: 20903.1 profiles/min. ETA: 0.05 hours.
+[2026-07-03 11:07:56] Batch processed. Fetched: 300/300. Total Completed: 31800/100000 (31.80%). Speed: 20871.0 profiles/min. ETA: 0.05 hours.
+[2026-07-03 11:07:58] Batch processed. Fetched: 300/300. Total Completed: 32100/100000 (32.10%). Speed: 20796.3 profiles/min. ETA: 0.05 hours.
+[2026-07-03 11:08:00] Batch processed. Fetched: 300/300. Total Completed: 32400/100000 (32.40%). Speed: 20670.1 profiles/min. ETA: 0.05 hours.
+[2026-07-03 11:08:02] Batch processed. Fetched: 300/300. Total Completed: 32700/100000 (32.70%). Speed: 20668.2 profiles/min. ETA: 0.05 hours.
+[2026-07-03 11:08:05] Reducing normal delay to 1.20 seconds after 10 consecutive successes.
+[2026-07-03 11:08:05] Batch processed. Fetched: 300/300. Total Completed: 33000/100000 (33.00%). Speed: 20620.1 profiles/min. ETA: 0.05 hours.
+[2026-07-03 11:08:07] Batch processed. Fetched: 300/300. Total Completed: 33300/100000 (33.30%). Speed: 20532.3 profiles/min. ETA: 0.05 hours.
+[2026-07-03 11:08:09] Batch processed. Fetched: 300/300. Total Completed: 33600/100000 (33.60%). Speed: 20425.4 profiles/min. ETA: 0.05 hours.
+[2026-07-03 11:08:13] Batch processed. Fetched: 300/300. Total Completed: 33900/100000 (33.90%). Speed: 19486.3 profiles/min. ETA: 0.06 hours.
+[2026-07-03 11:08:15] Batch processed. Fetched: 300/300. Total Completed: 34200/100000 (34.20%). Speed: 19294.1 profiles/min. ETA: 0.06 hours.
+[2026-07-03 11:08:18] Batch processed. Fetched: 300/300. Total Completed: 34500/100000 (34.50%). Speed: 19055.0 profiles/min. ETA: 0.06 hours.
+[2026-07-03 11:08:21] Batch processed. Fetched: 300/300. Total Completed: 34800/100000 (34.80%). Speed: 18603.1 profiles/min. ETA: 0.06 hours.
+[2026-07-03 11:08:24] Batch processed. Fetched: 300/300. Total Completed: 35100/100000 (35.10%). Speed: 18122.9 profiles/min. ETA: 0.06 hours.
+[2026-07-03 11:08:28] Batch processed. Fetched: 300/300. Total Completed: 35400/100000 (35.40%). Speed: 17340.2 profiles/min. ETA: 0.06 hours.
+[2026-07-03 11:08:32] Batch processed. Fetched: 300/300. Total Completed: 35700/100000 (35.70%). Speed: 16675.5 profiles/min. ETA: 0.06 hours.
+[2026-07-03 11:08:34] Reducing normal delay to 1.10 seconds after 10 consecutive successes.
+[2026-07-03 11:08:34] Batch processed. Fetched: 300/300. Total Completed: 36000/100000 (36.00%). Speed: 16662.1 profiles/min. ETA: 0.06 hours.
+[2026-07-03 11:08:36] HTTP 429 Too Many Requests. Increasing normal delay to 1.60 seconds.
+[2026-07-03 11:08:36] Waiting 60 seconds before retry (429 count: 1)...
+[2026-07-03 11:09:37] HTTP 429 Too Many Requests. Increasing normal delay to 2.10 seconds.
+[2026-07-03 11:09:37] Waiting 120 seconds before retry (429 count: 2)...
+[2026-07-03 11:11:37] HTTP 429 Too Many Requests. Increasing normal delay to 2.60 seconds.
+[2026-07-03 11:11:37] Waiting 180 seconds before retry (429 count: 3)...
+[2026-07-03 11:14:38] HTTP 429 Too Many Requests. Increasing normal delay to 3.10 seconds.
+[2026-07-03 11:14:38] Waiting 240 seconds before retry (429 count: 4)...
+[2026-07-03 11:18:40] Batch processed. Fetched: 300/300. Total Completed: 36300/100000 (36.30%). Speed: 1138.4 profiles/min. ETA: 0.93 hours.
+[2026-07-03 11:18:48] Batch processed. Fetched: 300/300. Total Completed: 36600/100000 (36.60%). Speed: 1158.4 profiles/min. ETA: 0.91 hours.
+[2026-07-03 11:18:53] Batch processed. Fetched: 300/300. Total Completed: 36900/100000 (36.90%). Speed: 1182.0 profiles/min. ETA: 0.89 hours.
+[2026-07-03 11:18:57] Batch processed. Fetched: 300/300. Total Completed: 37200/100000 (37.20%). Speed: 1207.5 profiles/min. ETA: 0.87 hours.
+[2026-07-03 11:19:02] Batch processed. Fetched: 300/300. Total Completed: 37500/100000 (37.50%). Speed: 1231.9 profiles/min. ETA: 0.85 hours.
+[2026-07-03 11:19:06] Batch processed. Fetched: 300/300. Total Completed: 37800/100000 (37.80%). Speed: 1256.8 profiles/min. ETA: 0.82 hours.
+[2026-07-03 11:19:11] Batch processed. Fetched: 300/300. Total Completed: 38100/100000 (38.10%). Speed: 1281.1 profiles/min. ETA: 0.81 hours.
+[2026-07-03 11:19:15] Batch processed. Fetched: 300/300. Total Completed: 38400/100000 (38.40%). Speed: 1306.0 profiles/min. ETA: 0.79 hours.
+[2026-07-03 11:19:20] Batch processed. Fetched: 300/300. Total Completed: 38700/100000 (38.70%). Speed: 1330.8 profiles/min. ETA: 0.77 hours.
+[2026-07-03 11:19:24] Reducing normal delay to 3.00 seconds after 10 consecutive successes.
+[2026-07-03 11:19:24] Batch processed. Fetched: 300/300. Total Completed: 39000/100000 (39.00%). Speed: 1355.4 profiles/min. ETA: 0.75 hours.
+[2026-07-03 11:19:28] Batch processed. Fetched: 300/300. Total Completed: 39300/100000 (39.30%). Speed: 1355.8 profiles/min. ETA: 0.75 hours.
+[2026-07-03 11:19:32] Batch processed. Fetched: 300/300. Total Completed: 39600/100000 (39.60%). Speed: 1355.6 profiles/min. ETA: 0.74 hours.
+[2026-07-03 11:19:37] Batch processed. Fetched: 300/300. Total Completed: 39900/100000 (39.90%). Speed: 1353.9 profiles/min. ETA: 0.74 hours.
+[2026-07-03 11:19:41] Batch processed. Fetched: 300/300. Total Completed: 40200/100000 (40.20%). Speed: 1352.8 profiles/min. ETA: 0.74 hours.
+[2026-07-03 11:19:45] Batch processed. Fetched: 300/300. Total Completed: 40500/100000 (40.50%). Speed: 1352.1 profiles/min. ETA: 0.73 hours.
+[2026-07-03 11:19:50] Batch processed. Fetched: 300/300. Total Completed: 40800/100000 (40.80%). Speed: 1351.1 profiles/min. ETA: 0.73 hours.
+[2026-07-03 11:19:54] Batch processed. Fetched: 300/300. Total Completed: 41100/100000 (41.10%). Speed: 1350.6 profiles/min. ETA: 0.73 hours.
+[2026-07-03 11:19:58] Batch processed. Fetched: 300/300. Total Completed: 41400/100000 (41.40%). Speed: 1350.2 profiles/min. ETA: 0.72 hours.
+[2026-07-03 11:20:02] Batch processed. Fetched: 300/300. Total Completed: 41700/100000 (41.70%). Speed: 1349.9 profiles/min. ETA: 0.72 hours.
+[2026-07-03 11:20:06] Reducing normal delay to 2.90 seconds after 10 consecutive successes.
+[2026-07-03 11:20:06] Batch processed. Fetched: 300/300. Total Completed: 42000/100000 (42.00%). Speed: 1349.8 profiles/min. ETA: 0.72 hours.
+[2026-07-03 11:20:09] Batch processed. Fetched: 300/300. Total Completed: 42300/100000 (42.30%). Speed: 1349.8 profiles/min. ETA: 0.71 hours.
+[2026-07-03 11:20:13] Batch processed. Fetched: 300/300. Total Completed: 42600/100000 (42.60%). Speed: 1349.4 profiles/min. ETA: 0.71 hours.
+[2026-07-03 11:20:17] Batch processed. Fetched: 300/300. Total Completed: 42900/100000 (42.90%). Speed: 1349.2 profiles/min. ETA: 0.71 hours.
+[2026-07-03 11:20:21] Batch processed. Fetched: 300/300. Total Completed: 43200/100000 (43.20%). Speed: 1349.0 profiles/min. ETA: 0.70 hours.
+[2026-07-03 11:20:25] Batch processed. Fetched: 300/300. Total Completed: 43500/100000 (43.50%). Speed: 1348.7 profiles/min. ETA: 0.70 hours.
+[2026-07-03 11:20:29] Batch processed. Fetched: 300/300. Total Completed: 43800/100000 (43.80%). Speed: 1348.4 profiles/min. ETA: 0.69 hours.
+[2026-07-03 11:20:32] Batch processed. Fetched: 300/300. Total Completed: 44100/100000 (44.10%). Speed: 1348.5 profiles/min. ETA: 0.69 hours.
+[2026-07-03 11:20:36] Batch processed. Fetched: 300/300. Total Completed: 44400/100000 (44.40%). Speed: 1348.2 profiles/min. ETA: 0.69 hours.
+[2026-07-03 11:20:40] Batch processed. Fetched: 300/300. Total Completed: 44700/100000 (44.70%). Speed: 1347.9 profiles/min. ETA: 0.68 hours.
+[2026-07-03 11:20:44] Reducing normal delay to 2.80 seconds after 10 consecutive successes.
+[2026-07-03 11:20:44] Batch processed. Fetched: 300/300. Total Completed: 45000/100000 (45.00%). Speed: 1347.6 profiles/min. ETA: 0.68 hours.
+[2026-07-03 11:20:48] Batch processed. Fetched: 300/300. Total Completed: 45300/100000 (45.30%). Speed: 1347.6 profiles/min. ETA: 0.68 hours.
+[2026-07-03 11:20:52] Batch processed. Fetched: 300/300. Total Completed: 45600/100000 (45.60%). Speed: 1347.6 profiles/min. ETA: 0.67 hours.
+[2026-07-03 11:20:55] Batch processed. Fetched: 300/300. Total Completed: 45900/100000 (45.90%). Speed: 1347.7 profiles/min. ETA: 0.67 hours.
+[2026-07-03 11:20:59] Batch processed. Fetched: 300/300. Total Completed: 46200/100000 (46.20%). Speed: 1347.7 profiles/min. ETA: 0.67 hours.
+[2026-07-03 11:21:03] Batch processed. Fetched: 300/300. Total Completed: 46500/100000 (46.50%). Speed: 1347.5 profiles/min. ETA: 0.66 hours.
+[2026-07-03 11:21:07] Batch processed. Fetched: 300/300. Total Completed: 46800/100000 (46.80%). Speed: 1347.3 profiles/min. ETA: 0.66 hours.
+[2026-07-03 11:21:10] Batch processed. Fetched: 300/300. Total Completed: 47100/100000 (47.10%). Speed: 1347.4 profiles/min. ETA: 0.65 hours.
+[2026-07-03 11:21:14] Batch processed. Fetched: 300/300. Total Completed: 47400/100000 (47.40%). Speed: 1347.7 profiles/min. ETA: 0.65 hours.
+[2026-07-03 11:21:18] Batch processed. Fetched: 300/300. Total Completed: 47700/100000 (47.70%). Speed: 1347.6 profiles/min. ETA: 0.65 hours.
+[2026-07-03 11:21:22] Reducing normal delay to 2.70 seconds after 10 consecutive successes.
+[2026-07-03 11:21:22] Batch processed. Fetched: 300/300. Total Completed: 48000/100000 (48.00%). Speed: 1347.3 profiles/min. ETA: 0.64 hours.
+[2026-07-03 11:21:25] HTTP 429 Too Many Requests. Increasing normal delay to 3.20 seconds.
+[2026-07-03 11:21:25] Waiting 60 seconds before retry (429 count: 1)...
+[2026-07-03 11:22:26] HTTP 429 Too Many Requests. Increasing normal delay to 3.70 seconds.
+[2026-07-03 11:22:26] Waiting 120 seconds before retry (429 count: 2)...
+[2026-07-03 11:24:26] HTTP 429 Too Many Requests. Increasing normal delay to 4.20 seconds.
+[2026-07-03 11:24:26] Waiting 180 seconds before retry (429 count: 3)...
+[2026-07-03 11:27:27] HTTP 429 Too Many Requests. Increasing normal delay to 4.70 seconds.
+[2026-07-03 11:27:27] Waiting 240 seconds before retry (429 count: 4)...
+[2026-07-03 11:31:29] Batch processed. Fetched: 300/300. Total Completed: 48300/100000 (48.30%). Speed: 707.9 profiles/min. ETA: 1.22 hours.
+[2026-07-03 11:31:35] Batch processed. Fetched: 300/300. Total Completed: 48600/100000 (48.60%). Speed: 707.9 profiles/min. ETA: 1.21 hours.
+[2026-07-03 11:31:40] Batch processed. Fetched: 300/300. Total Completed: 48900/100000 (48.90%). Speed: 708.8 profiles/min. ETA: 1.20 hours.
+[2026-07-03 11:31:46] Batch processed. Fetched: 300/300. Total Completed: 49200/100000 (49.20%). Speed: 708.8 profiles/min. ETA: 1.19 hours.
+[2026-07-03 11:31:52] Batch processed. Fetched: 300/300. Total Completed: 49500/100000 (49.50%). Speed: 709.0 profiles/min. ETA: 1.19 hours.
+[2026-07-03 11:31:57] Batch processed. Fetched: 300/300. Total Completed: 49800/100000 (49.80%). Speed: 709.3 profiles/min. ETA: 1.18 hours.
+[2026-07-03 11:32:03] Batch processed. Fetched: 300/300. Total Completed: 50100/100000 (50.10%). Speed: 709.9 profiles/min. ETA: 1.17 hours.
+[2026-07-03 11:32:09] Batch processed. Fetched: 300/300. Total Completed: 50400/100000 (50.40%). Speed: 710.7 profiles/min. ETA: 1.16 hours.
+[2026-07-03 11:32:16] Batch processed. Fetched: 300/300. Total Completed: 50700/100000 (50.70%). Speed: 711.2 profiles/min. ETA: 1.16 hours.
+[2026-07-03 11:32:21] Reducing normal delay to 4.60 seconds after 10 consecutive successes.
+[2026-07-03 11:32:21] Batch processed. Fetched: 300/300. Total Completed: 51000/100000 (51.00%). Speed: 711.3 profiles/min. ETA: 1.15 hours.
+[2026-07-03 11:32:27] Batch processed. Fetched: 300/300. Total Completed: 51300/100000 (51.30%). Speed: 1361.6 profiles/min. ETA: 0.60 hours.
+[2026-07-03 11:32:32] Batch processed. Fetched: 300/300. Total Completed: 51600/100000 (51.60%). Speed: 1368.8 profiles/min. ETA: 0.59 hours.
+[2026-07-03 11:32:37] Batch processed. Fetched: 300/300. Total Completed: 51900/100000 (51.90%). Speed: 1371.8 profiles/min. ETA: 0.58 hours.
+[2026-07-03 11:32:44] Batch processed. Fetched: 300/300. Total Completed: 52200/100000 (52.20%). Speed: 1370.8 profiles/min. ETA: 0.58 hours.
+[2026-07-03 11:32:49] Batch processed. Fetched: 300/300. Total Completed: 52500/100000 (52.50%). Speed: 1371.6 profiles/min. ETA: 0.58 hours.
+[2026-07-03 11:32:55] Batch processed. Fetched: 300/300. Total Completed: 52800/100000 (52.80%). Speed: 1371.8 profiles/min. ETA: 0.57 hours.
+[2026-07-03 11:33:01] Batch processed. Fetched: 300/300. Total Completed: 53100/100000 (53.10%). Speed: 1373.4 profiles/min. ETA: 0.57 hours.
+[2026-07-03 11:33:06] Batch processed. Fetched: 300/300. Total Completed: 53400/100000 (53.40%). Speed: 1373.6 profiles/min. ETA: 0.57 hours.
+[2026-07-03 11:33:12] Batch processed. Fetched: 300/300. Total Completed: 53700/100000 (53.70%). Speed: 1374.5 profiles/min. ETA: 0.56 hours.
+[2026-07-03 11:33:17] Reducing normal delay to 4.50 seconds after 10 consecutive successes.
+[2026-07-03 11:33:17] Batch processed. Fetched: 300/300. Total Completed: 54000/100000 (54.00%). Speed: 1375.2 profiles/min. ETA: 0.56 hours.
+[2026-07-03 11:33:23] Batch processed. Fetched: 300/300. Total Completed: 54300/100000 (54.30%). Speed: 1375.8 profiles/min. ETA: 0.55 hours.
+[2026-07-03 11:33:28] Batch processed. Fetched: 300/300. Total Completed: 54600/100000 (54.60%). Speed: 1377.3 profiles/min. ETA: 0.55 hours.
+[2026-07-03 11:33:33] Batch processed. Fetched: 300/300. Total Completed: 54900/100000 (54.90%). Speed: 1379.3 profiles/min. ETA: 0.54 hours.
+[2026-07-03 11:33:38] Batch processed. Fetched: 300/300. Total Completed: 55200/100000 (55.20%). Speed: 1380.4 profiles/min. ETA: 0.54 hours.
+[2026-07-03 11:33:44] Batch processed. Fetched: 300/300. Total Completed: 55500/100000 (55.50%). Speed: 1381.1 profiles/min. ETA: 0.54 hours.
+[2026-07-03 11:33:49] Batch processed. Fetched: 300/300. Total Completed: 55800/100000 (55.80%). Speed: 1382.4 profiles/min. ETA: 0.53 hours.
+[2026-07-03 11:33:54] Batch processed. Fetched: 300/300. Total Completed: 56100/100000 (56.10%). Speed: 1382.8 profiles/min. ETA: 0.53 hours.
+[2026-07-03 11:33:59] Batch processed. Fetched: 300/300. Total Completed: 56400/100000 (56.40%). Speed: 1383.0 profiles/min. ETA: 0.53 hours.
+[2026-07-03 11:34:05] Batch processed. Fetched: 300/300. Total Completed: 56700/100000 (56.70%). Speed: 1383.1 profiles/min. ETA: 0.52 hours.
+[2026-07-03 11:34:10] Reducing normal delay to 4.40 seconds after 10 consecutive successes.
+[2026-07-03 11:34:10] Batch processed. Fetched: 300/300. Total Completed: 57000/100000 (57.00%). Speed: 1383.5 profiles/min. ETA: 0.52 hours.
+[2026-07-03 11:34:15] Batch processed. Fetched: 300/300. Total Completed: 57300/100000 (57.30%). Speed: 1384.0 profiles/min. ETA: 0.51 hours.
+[2026-07-03 11:34:20] Batch processed. Fetched: 300/300. Total Completed: 57600/100000 (57.60%). Speed: 1384.4 profiles/min. ETA: 0.51 hours.
+[2026-07-03 11:34:26] Batch processed. Fetched: 300/300. Total Completed: 57900/100000 (57.90%). Speed: 1384.4 profiles/min. ETA: 0.51 hours.
+[2026-07-03 11:34:31] Batch processed. Fetched: 300/300. Total Completed: 58200/100000 (58.20%). Speed: 1384.6 profiles/min. ETA: 0.50 hours.
+[2026-07-03 11:34:36] Batch processed. Fetched: 300/300. Total Completed: 58500/100000 (58.50%). Speed: 1385.0 profiles/min. ETA: 0.50 hours.
+[2026-07-03 11:34:41] Batch processed. Fetched: 300/300. Total Completed: 58800/100000 (58.80%). Speed: 1385.2 profiles/min. ETA: 0.50 hours.
+[2026-07-03 11:34:46] Batch processed. Fetched: 300/300. Total Completed: 59100/100000 (59.10%). Speed: 1385.2 profiles/min. ETA: 0.49 hours.
+[2026-07-03 11:34:52] Batch processed. Fetched: 300/300. Total Completed: 59400/100000 (59.40%). Speed: 1385.8 profiles/min. ETA: 0.49 hours.
+[2026-07-03 11:34:57] Batch processed. Fetched: 300/300. Total Completed: 59700/100000 (59.70%). Speed: 1386.2 profiles/min. ETA: 0.48 hours.
+[2026-07-03 11:35:02] Reducing normal delay to 4.30 seconds after 10 consecutive successes.
+[2026-07-03 11:35:02] Batch processed. Fetched: 300/300. Total Completed: 60000/100000 (60.00%). Speed: 1386.7 profiles/min. ETA: 0.48 hours.
+[2026-07-03 11:35:07] HTTP 429 Too Many Requests. Increasing normal delay to 4.80 seconds.
+[2026-07-03 11:35:07] Waiting 60 seconds before retry (429 count: 1)...
+[2026-07-03 11:36:08] HTTP 429 Too Many Requests. Increasing normal delay to 5.00 seconds.
+[2026-07-03 11:36:08] Waiting 120 seconds before retry (429 count: 2)...
+[2026-07-03 11:38:09] HTTP 429 Too Many Requests. Increasing normal delay to 5.00 seconds.
+[2026-07-03 11:38:09] Waiting 180 seconds before retry (429 count: 3)...
+[2026-07-03 11:41:10] HTTP 429 Too Many Requests. Increasing normal delay to 5.00 seconds.
+[2026-07-03 11:41:10] Waiting 240 seconds before retry (429 count: 4)...
+[2026-07-03 11:45:11] Batch processed. Fetched: 300/300. Total Completed: 60300/100000 (60.30%). Speed: 718.7 profiles/min. ETA: 0.92 hours.
+[2026-07-03 11:45:16] Batch processed. Fetched: 300/300. Total Completed: 60600/100000 (60.60%). Speed: 718.8 profiles/min. ETA: 0.91 hours.
+[2026-07-03 11:45:22] Batch processed. Fetched: 300/300. Total Completed: 60900/100000 (60.90%). Speed: 718.8 profiles/min. ETA: 0.91 hours.
+[2026-07-03 11:45:28] Batch processed. Fetched: 300/300. Total Completed: 61200/100000 (61.20%). Speed: 718.9 profiles/min. ETA: 0.90 hours.
+[2026-07-03 11:45:34] Batch processed. Fetched: 300/300. Total Completed: 61500/100000 (61.50%). Speed: 719.0 profiles/min. ETA: 0.89 hours.
+[2026-07-03 11:45:40] Batch processed. Fetched: 300/300. Total Completed: 61800/100000 (61.80%). Speed: 719.1 profiles/min. ETA: 0.89 hours.
+[2026-07-03 11:45:46] Batch processed. Fetched: 300/300. Total Completed: 62100/100000 (62.10%). Speed: 719.1 profiles/min. ETA: 0.88 hours.
+[2026-07-03 11:45:51] Batch processed. Fetched: 300/300. Total Completed: 62400/100000 (62.40%). Speed: 719.2 profiles/min. ETA: 0.87 hours.
+[2026-07-03 11:45:57] Batch processed. Fetched: 300/300. Total Completed: 62700/100000 (62.70%). Speed: 719.2 profiles/min. ETA: 0.86 hours.
+[2026-07-03 11:46:03] Reducing normal delay to 4.90 seconds after 10 consecutive successes.
+[2026-07-03 11:46:03] Batch processed. Fetched: 300/300. Total Completed: 63000/100000 (63.00%). Speed: 719.3 profiles/min. ETA: 0.86 hours.
+[2026-07-03 11:46:09] Batch processed. Fetched: 300/300. Total Completed: 63300/100000 (63.30%). Speed: 1389.8 profiles/min. ETA: 0.44 hours.
+[2026-07-03 11:46:14] Batch processed. Fetched: 300/300. Total Completed: 63600/100000 (63.60%). Speed: 1390.6 profiles/min. ETA: 0.44 hours.
+[2026-07-03 11:46:20] Batch processed. Fetched: 300/300. Total Completed: 63900/100000 (63.90%). Speed: 1390.2 profiles/min. ETA: 0.43 hours.
+[2026-07-03 11:46:26] Batch processed. Fetched: 300/300. Total Completed: 64200/100000 (64.20%). Speed: 1391.0 profiles/min. ETA: 0.43 hours.
+[2026-07-03 11:46:32] Batch processed. Fetched: 300/300. Total Completed: 64500/100000 (64.50%). Speed: 1391.2 profiles/min. ETA: 0.43 hours.
+[2026-07-03 11:46:37] Batch processed. Fetched: 300/300. Total Completed: 64800/100000 (64.80%). Speed: 1392.2 profiles/min. ETA: 0.42 hours.
+[2026-07-03 11:46:43] Batch processed. Fetched: 300/300. Total Completed: 65100/100000 (65.10%). Speed: 1392.4 profiles/min. ETA: 0.42 hours.
+[2026-07-03 11:46:49] Batch processed. Fetched: 300/300. Total Completed: 65400/100000 (65.40%). Speed: 1393.1 profiles/min. ETA: 0.41 hours.
+[2026-07-03 11:46:55] Batch processed. Fetched: 300/300. Total Completed: 65700/100000 (65.70%). Speed: 1395.0 profiles/min. ETA: 0.41 hours.
+[2026-07-03 11:47:00] Reducing normal delay to 4.80 seconds after 10 consecutive successes.
+[2026-07-03 11:47:01] Batch processed. Fetched: 300/300. Total Completed: 66000/100000 (66.00%). Speed: 1395.1 profiles/min. ETA: 0.41 hours.
+[2026-07-03 11:47:06] Batch processed. Fetched: 300/300. Total Completed: 66300/100000 (66.30%). Speed: 1394.8 profiles/min. ETA: 0.40 hours.
+[2026-07-03 11:47:12] Batch processed. Fetched: 300/300. Total Completed: 66600/100000 (66.60%). Speed: 1394.9 profiles/min. ETA: 0.40 hours.
+[2026-07-03 11:47:18] Batch processed. Fetched: 300/300. Total Completed: 66900/100000 (66.90%). Speed: 1394.7 profiles/min. ETA: 0.40 hours.
+[2026-07-03 11:47:23] Batch processed. Fetched: 300/300. Total Completed: 67200/100000 (67.20%). Speed: 1396.2 profiles/min. ETA: 0.39 hours.
+[2026-07-03 11:47:29] Batch processed. Fetched: 300/300. Total Completed: 67500/100000 (67.50%). Speed: 1396.9 profiles/min. ETA: 0.39 hours.
+[2026-07-03 11:47:35] Batch processed. Fetched: 300/300. Total Completed: 67800/100000 (67.80%). Speed: 1397.7 profiles/min. ETA: 0.38 hours.
+[2026-07-03 11:47:40] Batch processed. Fetched: 300/300. Total Completed: 68100/100000 (68.10%). Speed: 1397.5 profiles/min. ETA: 0.38 hours.
+[2026-07-03 11:47:46] Batch processed. Fetched: 300/300. Total Completed: 68400/100000 (68.40%). Speed: 1397.9 profiles/min. ETA: 0.38 hours.
+[2026-07-03 11:47:52] Batch processed. Fetched: 300/300. Total Completed: 68700/100000 (68.70%). Speed: 1397.7 profiles/min. ETA: 0.37 hours.
+[2026-07-03 11:47:58] Reducing normal delay to 4.70 seconds after 10 consecutive successes.
+[2026-07-03 11:47:58] Batch processed. Fetched: 300/300. Total Completed: 69000/100000 (69.00%). Speed: 1397.3 profiles/min. ETA: 0.37 hours.
+[2026-07-03 11:48:03] Batch processed. Fetched: 300/300. Total Completed: 69300/100000 (69.30%). Speed: 1397.1 profiles/min. ETA: 0.37 hours.
+[2026-07-03 11:48:09] Batch processed. Fetched: 300/300. Total Completed: 69600/100000 (69.60%). Speed: 1396.8 profiles/min. ETA: 0.36 hours.
+[2026-07-03 11:48:14] Batch processed. Fetched: 300/300. Total Completed: 69900/100000 (69.90%). Speed: 1396.5 profiles/min. ETA: 0.36 hours.
+[2026-07-03 11:48:20] Batch processed. Fetched: 300/300. Total Completed: 70200/100000 (70.20%). Speed: 1396.3 profiles/min. ETA: 0.36 hours.
+[2026-07-03 11:48:26] Batch processed. Fetched: 300/300. Total Completed: 70500/100000 (70.50%). Speed: 1395.9 profiles/min. ETA: 0.35 hours.
+[2026-07-03 11:48:31] Batch processed. Fetched: 300/300. Total Completed: 70800/100000 (70.80%). Speed: 1395.7 profiles/min. ETA: 0.35 hours.
+[2026-07-03 11:48:37] Batch processed. Fetched: 300/300. Total Completed: 71100/100000 (71.10%). Speed: 1395.5 profiles/min. ETA: 0.35 hours.
+[2026-07-03 11:48:42] Batch processed. Fetched: 300/300. Total Completed: 71400/100000 (71.40%). Speed: 1395.5 profiles/min. ETA: 0.34 hours.
+[2026-07-03 11:48:48] Batch processed. Fetched: 300/300. Total Completed: 71700/100000 (71.70%). Speed: 1395.4 profiles/min. ETA: 0.34 hours.
+[2026-07-03 11:48:53] Reducing normal delay to 4.60 seconds after 10 consecutive successes.
+[2026-07-03 11:48:54] Batch processed. Fetched: 300/300. Total Completed: 72000/100000 (72.00%). Speed: 1395.2 profiles/min. ETA: 0.33 hours.
+[2026-07-03 11:48:59] HTTP 429 Too Many Requests. Increasing normal delay to 5.00 seconds.
+[2026-07-03 11:48:59] Waiting 60 seconds before retry (429 count: 1)...
+[2026-07-03 11:50:00] HTTP 429 Too Many Requests. Increasing normal delay to 5.00 seconds.
+[2026-07-03 11:50:00] Waiting 120 seconds before retry (429 count: 2)...
+[2026-07-03 11:52:00] HTTP 429 Too Many Requests. Increasing normal delay to 5.00 seconds.
+[2026-07-03 11:52:00] Waiting 180 seconds before retry (429 count: 3)...
+[2026-07-03 11:55:01] HTTP 429 Too Many Requests. Increasing normal delay to 5.00 seconds.
+[2026-07-03 11:55:01] Waiting 240 seconds before retry (429 count: 4)...
+[2026-07-03 11:59:02] Batch processed. Fetched: 300/300. Total Completed: 72300/100000 (72.30%). Speed: 721.0 profiles/min. ETA: 0.64 hours.
+[2026-07-03 11:59:08] Batch processed. Fetched: 300/300. Total Completed: 72600/100000 (72.60%). Speed: 720.9 profiles/min. ETA: 0.63 hours.
+[2026-07-03 11:59:14] Batch processed. Fetched: 300/300. Total Completed: 72900/100000 (72.90%). Speed: 720.7 profiles/min. ETA: 0.63 hours.
+[2026-07-03 11:59:20] Batch processed. Fetched: 300/300. Total Completed: 73200/100000 (73.20%). Speed: 720.6 profiles/min. ETA: 0.62 hours.
+[2026-07-03 11:59:26] Batch processed. Fetched: 300/300. Total Completed: 73500/100000 (73.50%). Speed: 720.5 profiles/min. ETA: 0.61 hours.
+[2026-07-03 11:59:32] Batch processed. Fetched: 300/300. Total Completed: 73800/100000 (73.80%). Speed: 720.4 profiles/min. ETA: 0.61 hours.
+[2026-07-03 11:59:38] Batch processed. Fetched: 300/300. Total Completed: 74100/100000 (74.10%). Speed: 720.3 profiles/min. ETA: 0.60 hours.
+[2026-07-03 11:59:44] Batch processed. Fetched: 300/300. Total Completed: 74400/100000 (74.40%). Speed: 720.2 profiles/min. ETA: 0.59 hours.
+[2026-07-03 11:59:50] Batch processed. Fetched: 300/300. Total Completed: 74700/100000 (74.70%). Speed: 720.2 profiles/min. ETA: 0.59 hours.
+[2026-07-03 11:59:56] Reducing normal delay to 4.90 seconds after 10 consecutive successes.
+[2026-07-03 11:59:56] Batch processed. Fetched: 300/300. Total Completed: 75000/100000 (75.00%). Speed: 720.1 profiles/min. ETA: 0.58 hours.
+[2026-07-03 12:00:02] Batch processed. Fetched: 300/300. Total Completed: 75300/100000 (75.30%). Speed: 1392.2 profiles/min. ETA: 0.30 hours.
+[2026-07-03 12:00:08] Batch processed. Fetched: 300/300. Total Completed: 75600/100000 (75.60%). Speed: 1391.6 profiles/min. ETA: 0.29 hours.
+[2026-07-03 12:00:13] Batch processed. Fetched: 300/300. Total Completed: 75900/100000 (75.90%). Speed: 1391.5 profiles/min. ETA: 0.29 hours.
+[2026-07-03 12:00:19] Batch processed. Fetched: 300/300. Total Completed: 76200/100000 (76.20%). Speed: 1391.2 profiles/min. ETA: 0.29 hours.
+[2026-07-03 12:00:25] Batch processed. Fetched: 300/300. Total Completed: 76500/100000 (76.50%). Speed: 1390.9 profiles/min. ETA: 0.28 hours.
+[2026-07-03 12:00:31] Batch processed. Fetched: 300/300. Total Completed: 76800/100000 (76.80%). Speed: 1390.7 profiles/min. ETA: 0.28 hours.
+[2026-07-03 12:00:37] Batch processed. Fetched: 300/300. Total Completed: 77100/100000 (77.10%). Speed: 1390.6 profiles/min. ETA: 0.27 hours.
+[2026-07-03 12:00:43] Batch processed. Fetched: 300/300. Total Completed: 77400/100000 (77.40%). Speed: 1390.4 profiles/min. ETA: 0.27 hours.
+[2026-07-03 12:00:48] Batch processed. Fetched: 300/300. Total Completed: 77700/100000 (77.70%). Speed: 1390.3 profiles/min. ETA: 0.27 hours.
+[2026-07-03 12:00:54] Reducing normal delay to 4.80 seconds after 10 consecutive successes.
+[2026-07-03 12:00:54] Batch processed. Fetched: 300/300. Total Completed: 78000/100000 (78.00%). Speed: 1389.8 profiles/min. ETA: 0.26 hours.
+[2026-07-03 12:01:00] Batch processed. Fetched: 300/300. Total Completed: 78300/100000 (78.30%). Speed: 1389.3 profiles/min. ETA: 0.26 hours.
+[2026-07-03 12:01:06] Batch processed. Fetched: 300/300. Total Completed: 78600/100000 (78.60%). Speed: 1387.9 profiles/min. ETA: 0.26 hours.
+[2026-07-03 12:01:12] Batch processed. Fetched: 300/300. Total Completed: 78900/100000 (78.90%). Speed: 1387.6 profiles/min. ETA: 0.25 hours.
+[2026-07-03 12:01:18] Batch processed. Fetched: 300/300. Total Completed: 79200/100000 (79.20%). Speed: 1387.6 profiles/min. ETA: 0.25 hours.
+[2026-07-03 12:01:24] Batch processed. Fetched: 300/300. Total Completed: 79500/100000 (79.50%). Speed: 1387.4 profiles/min. ETA: 0.25 hours.
+[2026-07-03 12:01:29] Batch processed. Fetched: 300/300. Total Completed: 79800/100000 (79.80%). Speed: 1387.2 profiles/min. ETA: 0.24 hours.
+[2026-07-03 12:01:35] Batch processed. Fetched: 300/300. Total Completed: 80100/100000 (80.10%). Speed: 1387.1 profiles/min. ETA: 0.24 hours.
+[2026-07-03 12:01:41] Batch processed. Fetched: 300/300. Total Completed: 80400/100000 (80.40%). Speed: 1387.3 profiles/min. ETA: 0.24 hours.
+[2026-07-03 12:01:46] Batch processed. Fetched: 300/300. Total Completed: 80700/100000 (80.70%). Speed: 1387.2 profiles/min. ETA: 0.23 hours.
+[2026-07-03 12:01:52] Reducing normal delay to 4.70 seconds after 10 consecutive successes.
+[2026-07-03 12:01:52] Batch processed. Fetched: 300/300. Total Completed: 81000/100000 (81.00%). Speed: 1387.1 profiles/min. ETA: 0.23 hours.
+[2026-07-03 12:01:58] Batch processed. Fetched: 300/300. Total Completed: 81300/100000 (81.30%). Speed: 1387.1 profiles/min. ETA: 0.22 hours.
+[2026-07-03 12:02:03] Batch processed. Fetched: 300/300. Total Completed: 81600/100000 (81.60%). Speed: 1387.1 profiles/min. ETA: 0.22 hours.
+[2026-07-03 12:02:09] Batch processed. Fetched: 300/300. Total Completed: 81900/100000 (81.90%). Speed: 1387.0 profiles/min. ETA: 0.22 hours.
+[2026-07-03 12:02:15] Batch processed. Fetched: 300/300. Total Completed: 82200/100000 (82.20%). Speed: 1387.0 profiles/min. ETA: 0.21 hours.
+[2026-07-03 12:02:20] Batch processed. Fetched: 300/300. Total Completed: 82500/100000 (82.50%). Speed: 1387.1 profiles/min. ETA: 0.21 hours.
+[2026-07-03 12:02:26] Batch processed. Fetched: 300/300. Total Completed: 82800/100000 (82.80%). Speed: 1386.9 profiles/min. ETA: 0.21 hours.
+[2026-07-03 12:02:32] Batch processed. Fetched: 300/300. Total Completed: 83100/100000 (83.10%). Speed: 1386.7 profiles/min. ETA: 0.20 hours.
+[2026-07-03 12:02:37] Batch processed. Fetched: 300/300. Total Completed: 83400/100000 (83.40%). Speed: 1386.5 profiles/min. ETA: 0.20 hours.
+[2026-07-03 12:02:43] Batch processed. Fetched: 300/300. Total Completed: 83700/100000 (83.70%). Speed: 1386.3 profiles/min. ETA: 0.20 hours.
+[2026-07-03 12:02:49] Reducing normal delay to 4.60 seconds after 10 consecutive successes.
+[2026-07-03 12:02:49] Batch processed. Fetched: 300/300. Total Completed: 84000/100000 (84.00%). Speed: 1386.4 profiles/min. ETA: 0.19 hours.
+[2026-07-03 12:02:54] HTTP 429 Too Many Requests. Increasing normal delay to 5.00 seconds.
+[2026-07-03 12:02:54] Waiting 60 seconds before retry (429 count: 1)...
+[2026-07-03 12:03:55] HTTP 429 Too Many Requests. Increasing normal delay to 5.00 seconds.
+[2026-07-03 12:03:55] Waiting 120 seconds before retry (429 count: 2)...
+[2026-07-03 12:05:55] HTTP 429 Too Many Requests. Increasing normal delay to 5.00 seconds.
+[2026-07-03 12:05:55] Waiting 180 seconds before retry (429 count: 3)...
+[2026-07-03 12:08:56] HTTP 429 Too Many Requests. Increasing normal delay to 5.00 seconds.
+[2026-07-03 12:08:56] Waiting 240 seconds before retry (429 count: 4)...
+[2026-07-03 12:12:57] Batch processed. Fetched: 300/300. Total Completed: 84300/100000 (84.30%). Speed: 718.9 profiles/min. ETA: 0.36 hours.
+[2026-07-03 12:13:03] Batch processed. Fetched: 300/300. Total Completed: 84600/100000 (84.60%). Speed: 718.8 profiles/min. ETA: 0.36 hours.
+[2026-07-03 12:13:09] Batch processed. Fetched: 300/300. Total Completed: 84900/100000 (84.90%). Speed: 718.8 profiles/min. ETA: 0.35 hours.
+[2026-07-03 12:13:15] Batch processed. Fetched: 300/300. Total Completed: 85200/100000 (85.20%). Speed: 718.8 profiles/min. ETA: 0.34 hours.
+[2026-07-03 12:13:21] Batch processed. Fetched: 300/300. Total Completed: 85500/100000 (85.50%). Speed: 718.7 profiles/min. ETA: 0.34 hours.
+[2026-07-03 12:13:27] Batch processed. Fetched: 300/300. Total Completed: 85800/100000 (85.80%). Speed: 718.7 profiles/min. ETA: 0.33 hours.
+[2026-07-03 12:13:33] Batch processed. Fetched: 300/300. Total Completed: 86100/100000 (86.10%). Speed: 718.7 profiles/min. ETA: 0.32 hours.
+[2026-07-03 12:13:38] Batch processed. Fetched: 300/300. Total Completed: 86400/100000 (86.40%). Speed: 718.7 profiles/min. ETA: 0.32 hours.
+[2026-07-03 12:13:44] Batch processed. Fetched: 300/300. Total Completed: 86700/100000 (86.70%). Speed: 718.6 profiles/min. ETA: 0.31 hours.
+[2026-07-03 12:13:50] Reducing normal delay to 4.90 seconds after 10 consecutive successes.
+[2026-07-03 12:13:50] Batch processed. Fetched: 300/300. Total Completed: 87000/100000 (87.00%). Speed: 718.6 profiles/min. ETA: 0.30 hours.
+[2026-07-03 12:13:56] Batch processed. Fetched: 300/300. Total Completed: 87300/100000 (87.30%). Speed: 1385.4 profiles/min. ETA: 0.15 hours.
+[2026-07-03 12:14:02] Batch processed. Fetched: 300/300. Total Completed: 87600/100000 (87.60%). Speed: 1385.5 profiles/min. ETA: 0.15 hours.
+[2026-07-03 12:14:08] Batch processed. Fetched: 300/300. Total Completed: 87900/100000 (87.90%). Speed: 1386.4 profiles/min. ETA: 0.15 hours.
+[2026-07-03 12:14:14] Batch processed. Fetched: 300/300. Total Completed: 88200/100000 (88.20%). Speed: 1386.6 profiles/min. ETA: 0.14 hours.
+[2026-07-03 12:14:20] Batch processed. Fetched: 300/300. Total Completed: 88500/100000 (88.50%). Speed: 1386.7 profiles/min. ETA: 0.14 hours.
+[2026-07-03 12:14:25] Batch processed. Fetched: 300/300. Total Completed: 88800/100000 (88.80%). Speed: 1387.0 profiles/min. ETA: 0.13 hours.
+[2026-07-03 12:14:31] Batch processed. Fetched: 300/300. Total Completed: 89100/100000 (89.10%). Speed: 1386.7 profiles/min. ETA: 0.13 hours.
+[2026-07-03 12:14:37] Batch processed. Fetched: 300/300. Total Completed: 89400/100000 (89.40%). Speed: 1386.7 profiles/min. ETA: 0.13 hours.
+[2026-07-03 12:14:43] Batch processed. Fetched: 300/300. Total Completed: 89700/100000 (89.70%). Speed: 1386.5 profiles/min. ETA: 0.12 hours.
+[2026-07-03 12:14:49] Reducing normal delay to 4.80 seconds after 10 consecutive successes.
+[2026-07-03 12:14:49] Batch processed. Fetched: 300/300. Total Completed: 90000/100000 (90.00%). Speed: 1386.5 profiles/min. ETA: 0.12 hours.
+[2026-07-03 12:14:55] Batch processed. Fetched: 300/300. Total Completed: 90300/100000 (90.30%). Speed: 1386.4 profiles/min. ETA: 0.12 hours.
+[2026-07-03 12:15:00] Batch processed. Fetched: 300/300. Total Completed: 90600/100000 (90.60%). Speed: 1386.3 profiles/min. ETA: 0.11 hours.
+[2026-07-03 12:15:06] Batch processed. Fetched: 300/300. Total Completed: 90900/100000 (90.90%). Speed: 1386.1 profiles/min. ETA: 0.11 hours.
+[2026-07-03 12:15:12] Batch processed. Fetched: 300/300. Total Completed: 91200/100000 (91.20%). Speed: 1386.2 profiles/min. ETA: 0.11 hours.
+[2026-07-03 12:15:18] Batch processed. Fetched: 300/300. Total Completed: 91500/100000 (91.50%). Speed: 1386.3 profiles/min. ETA: 0.10 hours.
+[2026-07-03 12:15:23] Batch processed. Fetched: 300/300. Total Completed: 91800/100000 (91.80%). Speed: 1386.1 profiles/min. ETA: 0.10 hours.
+[2026-07-03 12:15:29] Batch processed. Fetched: 300/300. Total Completed: 92100/100000 (92.10%). Speed: 1386.2 profiles/min. ETA: 0.09 hours.
+[2026-07-03 12:15:35] Batch processed. Fetched: 300/300. Total Completed: 92400/100000 (92.40%). Speed: 1385.8 profiles/min. ETA: 0.09 hours.
+[2026-07-03 12:15:41] Batch processed. Fetched: 300/300. Total Completed: 92700/100000 (92.70%). Speed: 1385.9 profiles/min. ETA: 0.09 hours.
+[2026-07-03 12:15:46] Reducing normal delay to 4.70 seconds after 10 consecutive successes.
+[2026-07-03 12:15:47] Batch processed. Fetched: 300/300. Total Completed: 93000/100000 (93.00%). Speed: 1386.0 profiles/min. ETA: 0.08 hours.
+[2026-07-03 12:15:52] Batch processed. Fetched: 300/300. Total Completed: 93300/100000 (93.30%). Speed: 1386.0 profiles/min. ETA: 0.08 hours.
+[2026-07-03 12:15:58] Batch processed. Fetched: 300/300. Total Completed: 93600/100000 (93.60%). Speed: 1386.8 profiles/min. ETA: 0.08 hours.
+[2026-07-03 12:16:04] Batch processed. Fetched: 300/300. Total Completed: 93900/100000 (93.90%). Speed: 1387.2 profiles/min. ETA: 0.07 hours.
+[2026-07-03 12:16:09] Batch processed. Fetched: 300/300. Total Completed: 94200/100000 (94.20%). Speed: 1387.0 profiles/min. ETA: 0.07 hours.
+[2026-07-03 12:16:15] Batch processed. Fetched: 300/300. Total Completed: 94500/100000 (94.50%). Speed: 1387.0 profiles/min. ETA: 0.07 hours.
+[2026-07-03 12:16:21] Batch processed. Fetched: 300/300. Total Completed: 94800/100000 (94.80%). Speed: 1386.9 profiles/min. ETA: 0.06 hours.
+[2026-07-03 12:16:26] Batch processed. Fetched: 300/300. Total Completed: 95100/100000 (95.10%). Speed: 1387.0 profiles/min. ETA: 0.06 hours.
+[2026-07-03 12:16:32] Batch processed. Fetched: 300/300. Total Completed: 95400/100000 (95.40%). Speed: 1386.9 profiles/min. ETA: 0.06 hours.
+[2026-07-03 12:16:38] Batch processed. Fetched: 300/300. Total Completed: 95700/100000 (95.70%). Speed: 1386.3 profiles/min. ETA: 0.05 hours.
+[2026-07-03 12:16:43] Reducing normal delay to 4.60 seconds after 10 consecutive successes.
+[2026-07-03 12:16:43] Batch processed. Fetched: 300/300. Total Completed: 96000/100000 (96.00%). Speed: 1386.3 profiles/min. ETA: 0.05 hours.
+[2026-07-03 12:16:49] HTTP 429 Too Many Requests. Increasing normal delay to 5.00 seconds.
+[2026-07-03 12:16:49] Waiting 60 seconds before retry (429 count: 1)...
+[2026-07-03 12:17:49] HTTP 429 Too Many Requests. Increasing normal delay to 5.00 seconds.
+[2026-07-03 12:17:49] Waiting 120 seconds before retry (429 count: 2)...
+[2026-07-03 12:19:50] HTTP 429 Too Many Requests. Increasing normal delay to 5.00 seconds.
+[2026-07-03 12:19:50] Waiting 180 seconds before retry (429 count: 3)...
+[2026-07-03 12:22:51] HTTP 429 Too Many Requests. Increasing normal delay to 5.00 seconds.
+[2026-07-03 12:22:51] Waiting 240 seconds before retry (429 count: 4)...
+[2026-07-03 12:26:52] Batch processed. Fetched: 300/300. Total Completed: 96300/100000 (96.30%). Speed: 718.7 profiles/min. ETA: 0.09 hours.
+[2026-07-03 12:26:58] Batch processed. Fetched: 300/300. Total Completed: 96600/100000 (96.60%). Speed: 718.7 profiles/min. ETA: 0.08 hours.
+[2026-07-03 12:27:04] Batch processed. Fetched: 300/300. Total Completed: 96900/100000 (96.90%). Speed: 718.7 profiles/min. ETA: 0.07 hours.
+[2026-07-03 12:27:10] Batch processed. Fetched: 300/300. Total Completed: 97200/100000 (97.20%). Speed: 718.4 profiles/min. ETA: 0.06 hours.
+[2026-07-03 12:27:17] Batch processed. Fetched: 300/300. Total Completed: 97500/100000 (97.50%). Speed: 718.0 profiles/min. ETA: 0.06 hours.
+[2026-07-03 12:27:23] Batch processed. Fetched: 300/300. Total Completed: 97800/100000 (97.80%). Speed: 717.5 profiles/min. ETA: 0.05 hours.
+[2026-07-03 12:27:30] Batch processed. Fetched: 300/300. Total Completed: 98100/100000 (98.10%). Speed: 717.3 profiles/min. ETA: 0.04 hours.
+[2026-07-03 12:27:38] Batch processed. Fetched: 300/300. Total Completed: 98400/100000 (98.40%). Speed: 716.4 profiles/min. ETA: 0.04 hours.
+[2026-07-03 12:27:49] Batch processed. Fetched: 300/300. Total Completed: 98700/100000 (98.70%). Speed: 713.3 profiles/min. ETA: 0.03 hours.
+[2026-07-03 12:27:59] Reducing normal delay to 4.90 seconds after 10 consecutive successes.
+[2026-07-03 12:27:59] Batch processed. Fetched: 300/300. Total Completed: 99000/100000 (99.00%). Speed: 711.1 profiles/min. ETA: 0.02 hours.
+[2026-07-03 12:28:09] Batch processed. Fetched: 300/300. Total Completed: 99300/100000 (99.30%). Speed: 1350.1 profiles/min. ETA: 0.01 hours.
+[2026-07-03 12:28:16] Batch processed. Fetched: 300/300. Total Completed: 99600/100000 (99.60%). Speed: 1348.0 profiles/min. ETA: 0.00 hours.
+[2026-07-03 12:28:27] Batch processed. Fetched: 300/300. Total Completed: 99900/100000 (99.90%). Speed: 1337.0 profiles/min. ETA: 0.00 hours.
+[2026-07-03 12:28:33] Batch processed. Fetched: 300/300. Total Completed: 100200/100000 (100.20%). Speed: 1335.9 profiles/min. ETA: 0 hours.
+[2026-07-03 12:28:38] Successfully reached target of 100000 profiles!
+[2026-07-03 12:28:38] Execution completed successfully.
+[2026-07-03 12:28:38] Database connection closed.
+[2026-07-03 13:00:46] Initializing Lichess Data Downloader with DB: lichess_players.db, Log: download.log, Target: 220200, Batch: 300, Skip: 0, Token: new (redacted)...
+[2026-07-03 13:00:46] Starting Phase 1: Fetching usernames from team 'lichess-swiss' (all_usernames=False, skip=0)...
+[2026-07-03 13:01:54] Initializing Lichess Data Downloader with DB: lichess_players.db, Log: download.log, Target: 220200, Batch: 300, Skip: 0, Token: new (redacted)...
+[2026-07-03 13:01:54] Database already contains 249994 players in queue (target is 220200). Skipping Phase 1.
+[2026-07-03 13:01:54] Starting Phase 2: Downloading user profiles. Currently completed: 100200/220200
+[2026-07-03 13:01:55] Batch processed. Fetched: 300/300. Total Completed: 100500/220200 (45.64%). Speed: 15056.3 profiles/min. ETA: 0.13 hours.
+[2026-07-03 13:01:58] Batch processed. Fetched: 300/300. Total Completed: 100800/220200 (45.78%). Speed: 12042.2 profiles/min. ETA: 0.17 hours.
+[2026-07-03 13:02:01] Batch processed. Fetched: 300/300. Total Completed: 101100/220200 (45.91%). Speed: 13367.3 profiles/min. ETA: 0.15 hours.
+[2026-07-03 13:02:04] Batch processed. Fetched: 300/300. Total Completed: 101400/220200 (46.05%). Speed: 13600.5 profiles/min. ETA: 0.15 hours.
+[2026-07-03 13:02:06] Batch processed. Fetched: 300/300. Total Completed: 101700/220200 (46.19%). Speed: 14586.0 profiles/min. ETA: 0.14 hours.
+[2026-07-03 13:02:09] Batch processed. Fetched: 300/300. Total Completed: 102000/220200 (46.32%). Speed: 14741.3 profiles/min. ETA: 0.13 hours.
+[2026-07-03 13:02:12] Batch processed. Fetched: 300/300. Total Completed: 102300/220200 (46.46%). Speed: 14959.5 profiles/min. ETA: 0.13 hours.
+[2026-07-03 13:02:14] Batch processed. Fetched: 300/300. Total Completed: 102600/220200 (46.59%). Speed: 15196.9 profiles/min. ETA: 0.13 hours.
+[2026-07-03 13:02:17] Batch processed. Fetched: 300/300. Total Completed: 102900/220200 (46.73%). Speed: 15645.8 profiles/min. ETA: 0.12 hours.
+[2026-07-03 13:02:19] Reducing normal delay to 1.40 seconds after 10 consecutive successes.
+[2026-07-03 13:02:19] Batch processed. Fetched: 300/300. Total Completed: 103200/220200 (46.87%). Speed: 15949.2 profiles/min. ETA: 0.12 hours.
+[2026-07-03 13:02:22] Batch processed. Fetched: 300/300. Total Completed: 103500/220200 (47.00%). Speed: 16336.1 profiles/min. ETA: 0.12 hours.
+[2026-07-03 13:02:24] Batch processed. Fetched: 300/300. Total Completed: 103800/220200 (47.14%). Speed: 16404.8 profiles/min. ETA: 0.12 hours.
+[2026-07-03 13:02:26] Batch processed. Fetched: 300/300. Total Completed: 104100/220200 (47.28%). Speed: 16567.0 profiles/min. ETA: 0.12 hours.
+[2026-07-03 13:02:29] Batch processed. Fetched: 300/300. Total Completed: 104400/220200 (47.41%). Speed: 16831.9 profiles/min. ETA: 0.11 hours.
+[2026-07-03 13:02:31] Batch processed. Fetched: 300/300. Total Completed: 104700/220200 (47.55%). Speed: 17000.0 profiles/min. ETA: 0.11 hours.
+[2026-07-03 13:02:34] Batch processed. Fetched: 300/300. Total Completed: 105000/220200 (47.68%). Speed: 17062.1 profiles/min. ETA: 0.11 hours.
+[2026-07-03 13:02:36] Batch processed. Fetched: 300/300. Total Completed: 105300/220200 (47.82%). Speed: 17187.2 profiles/min. ETA: 0.11 hours.
+[2026-07-03 13:02:38] Batch processed. Fetched: 300/300. Total Completed: 105600/220200 (47.96%). Speed: 17311.7 profiles/min. ETA: 0.11 hours.
+[2026-07-03 13:02:41] Batch processed. Fetched: 300/300. Total Completed: 105900/220200 (48.09%). Speed: 17458.8 profiles/min. ETA: 0.11 hours.
+[2026-07-03 13:02:43] Reducing normal delay to 1.30 seconds after 10 consecutive successes.
+[2026-07-03 13:02:43] Batch processed. Fetched: 300/300. Total Completed: 106200/220200 (48.23%). Speed: 17600.2 profiles/min. ETA: 0.11 hours.
+[2026-07-03 13:02:45] Batch processed. Fetched: 300/300. Total Completed: 106500/220200 (48.37%). Speed: 17695.9 profiles/min. ETA: 0.11 hours.
+[2026-07-03 13:02:48] Batch processed. Fetched: 300/300. Total Completed: 106800/220200 (48.50%). Speed: 17742.2 profiles/min. ETA: 0.11 hours.
+[2026-07-03 13:02:50] Batch processed. Fetched: 300/300. Total Completed: 107100/220200 (48.64%). Speed: 17851.5 profiles/min. ETA: 0.11 hours.
+[2026-07-03 13:02:52] Batch processed. Fetched: 300/300. Total Completed: 107400/220200 (48.77%). Speed: 17966.4 profiles/min. ETA: 0.10 hours.
+[2026-07-03 13:02:54] Batch processed. Fetched: 300/300. Total Completed: 107700/220200 (48.91%). Speed: 18047.4 profiles/min. ETA: 0.10 hours.
+[2026-07-03 13:02:56] Batch processed. Fetched: 300/300. Total Completed: 108000/220200 (49.05%). Speed: 18128.6 profiles/min. ETA: 0.10 hours.
+[2026-07-03 13:02:59] Batch processed. Fetched: 300/300. Total Completed: 108300/220200 (49.18%). Speed: 18222.1 profiles/min. ETA: 0.10 hours.
+[2026-07-03 13:03:01] Batch processed. Fetched: 300/300. Total Completed: 108600/220200 (49.32%). Speed: 18252.2 profiles/min. ETA: 0.10 hours.
+[2026-07-03 13:03:03] Batch processed. Fetched: 300/300. Total Completed: 108900/220200 (49.46%). Speed: 18320.9 profiles/min. ETA: 0.10 hours.
+[2026-07-03 13:03:05] Reducing normal delay to 1.20 seconds after 10 consecutive successes.
+[2026-07-03 13:03:05] Batch processed. Fetched: 300/300. Total Completed: 109200/220200 (49.59%). Speed: 18390.3 profiles/min. ETA: 0.10 hours.
+[2026-07-03 13:03:08] Batch processed. Fetched: 300/300. Total Completed: 109500/220200 (49.73%). Speed: 18371.5 profiles/min. ETA: 0.10 hours.
+[2026-07-03 13:03:10] Batch processed. Fetched: 300/300. Total Completed: 109800/220200 (49.86%). Speed: 18455.3 profiles/min. ETA: 0.10 hours.
+[2026-07-03 13:03:12] Batch processed. Fetched: 300/300. Total Completed: 110100/220200 (50.00%). Speed: 18506.5 profiles/min. ETA: 0.10 hours.
+[2026-07-03 13:03:14] Batch processed. Fetched: 300/300. Total Completed: 110400/220200 (50.14%). Speed: 18458.9 profiles/min. ETA: 0.10 hours.
+[2026-07-03 13:03:17] Batch processed. Fetched: 300/300. Total Completed: 110700/220200 (50.27%). Speed: 18280.6 profiles/min. ETA: 0.10 hours.
+[2026-07-03 13:03:19] Batch processed. Fetched: 300/300. Total Completed: 111000/220200 (50.41%). Speed: 18078.3 profiles/min. ETA: 0.10 hours.
+[2026-07-03 13:03:22] Batch processed. Fetched: 300/300. Total Completed: 111300/220200 (50.54%). Speed: 17867.5 profiles/min. ETA: 0.10 hours.
+[2026-07-03 13:03:25] Batch processed. Fetched: 300/300. Total Completed: 111600/220200 (50.68%). Speed: 17662.0 profiles/min. ETA: 0.10 hours.
+[2026-07-03 13:03:27] Batch processed. Fetched: 300/300. Total Completed: 111900/220200 (50.82%). Speed: 17510.9 profiles/min. ETA: 0.10 hours.
+[2026-07-03 13:03:30] Reducing normal delay to 1.10 seconds after 10 consecutive successes.
+[2026-07-03 13:03:30] Batch processed. Fetched: 300/300. Total Completed: 112200/220200 (50.95%). Speed: 17391.0 profiles/min. ETA: 0.10 hours.
+[2026-07-03 13:03:32] HTTP 429 Too Many Requests. Increasing normal delay to 1.60 seconds.
+[2026-07-03 13:03:32] Waiting 60 seconds before retry (429 count: 1)...
+[2026-07-03 13:04:33] HTTP 429 Too Many Requests. Increasing normal delay to 2.10 seconds.
+[2026-07-03 13:04:33] Waiting 120 seconds before retry (429 count: 2)...
+[2026-07-03 13:06:33] HTTP 429 Too Many Requests. Increasing normal delay to 2.60 seconds.
+[2026-07-03 13:06:33] Waiting 180 seconds before retry (429 count: 3)...
+[2026-07-03 13:09:34] HTTP 429 Too Many Requests. Increasing normal delay to 3.10 seconds.
+[2026-07-03 13:09:34] Waiting 240 seconds before retry (429 count: 4)...
+[2026-07-03 13:13:35] Batch processed. Fetched: 300/300. Total Completed: 112500/220200 (51.09%). Speed: 1143.7 profiles/min. ETA: 1.57 hours.
+[2026-07-03 13:13:39] Batch processed. Fetched: 300/300. Total Completed: 112800/220200 (51.23%). Speed: 1170.1 profiles/min. ETA: 1.53 hours.
+[2026-07-03 13:13:43] Batch processed. Fetched: 300/300. Total Completed: 113100/220200 (51.36%). Speed: 1196.4 profiles/min. ETA: 1.49 hours.
+[2026-07-03 13:13:47] Batch processed. Fetched: 300/300. Total Completed: 113400/220200 (51.50%). Speed: 1222.6 profiles/min. ETA: 1.46 hours.
+[2026-07-03 13:13:51] Batch processed. Fetched: 300/300. Total Completed: 113700/220200 (51.63%). Speed: 1248.8 profiles/min. ETA: 1.42 hours.
+[2026-07-03 13:13:55] Batch processed. Fetched: 300/300. Total Completed: 114000/220200 (51.77%). Speed: 1275.0 profiles/min. ETA: 1.39 hours.
+[2026-07-03 13:13:59] Batch processed. Fetched: 300/300. Total Completed: 114300/220200 (51.91%). Speed: 1300.7 profiles/min. ETA: 1.36 hours.
+[2026-07-03 13:14:03] Batch processed. Fetched: 300/300. Total Completed: 114600/220200 (52.04%). Speed: 1326.6 profiles/min. ETA: 1.33 hours.
+[2026-07-03 13:14:07] Batch processed. Fetched: 300/300. Total Completed: 114900/220200 (52.18%). Speed: 1352.5 profiles/min. ETA: 1.30 hours.
+[2026-07-03 13:14:11] Reducing normal delay to 3.00 seconds after 10 consecutive successes.
+[2026-07-03 13:14:11] Batch processed. Fetched: 300/300. Total Completed: 115200/220200 (52.32%). Speed: 1378.3 profiles/min. ETA: 1.27 hours.
+[2026-07-03 13:14:15] Batch processed. Fetched: 300/300. Total Completed: 115500/220200 (52.45%). Speed: 1379.0 profiles/min. ETA: 1.27 hours.
+[2026-07-03 13:14:19] Batch processed. Fetched: 300/300. Total Completed: 115800/220200 (52.59%). Speed: 1381.0 profiles/min. ETA: 1.26 hours.
+[2026-07-03 13:14:23] Batch processed. Fetched: 300/300. Total Completed: 116100/220200 (52.72%). Speed: 1381.2 profiles/min. ETA: 1.26 hours.
+[2026-07-03 13:14:26] Batch processed. Fetched: 300/300. Total Completed: 116400/220200 (52.86%). Speed: 1382.0 profiles/min. ETA: 1.25 hours.
+[2026-07-03 13:14:30] Batch processed. Fetched: 300/300. Total Completed: 116700/220200 (53.00%). Speed: 1381.7 profiles/min. ETA: 1.25 hours.
+[2026-07-03 13:14:34] Batch processed. Fetched: 300/300. Total Completed: 117000/220200 (53.13%). Speed: 1382.1 profiles/min. ETA: 1.24 hours.
+[2026-07-03 13:14:38] Batch processed. Fetched: 300/300. Total Completed: 117300/220200 (53.27%). Speed: 1382.5 profiles/min. ETA: 1.24 hours.
+[2026-07-03 13:14:42] Batch processed. Fetched: 300/300. Total Completed: 117600/220200 (53.41%). Speed: 1382.7 profiles/min. ETA: 1.24 hours.
+[2026-07-03 13:14:46] Batch processed. Fetched: 300/300. Total Completed: 117900/220200 (53.54%). Speed: 1382.6 profiles/min. ETA: 1.23 hours.
+[2026-07-03 13:14:50] Reducing normal delay to 2.90 seconds after 10 consecutive successes.
+[2026-07-03 13:14:50] Batch processed. Fetched: 300/300. Total Completed: 118200/220200 (53.68%). Speed: 1382.5 profiles/min. ETA: 1.23 hours.
+[2026-07-03 13:14:54] Batch processed. Fetched: 300/300. Total Completed: 118500/220200 (53.81%). Speed: 1382.3 profiles/min. ETA: 1.23 hours.
+[2026-07-03 13:14:58] Batch processed. Fetched: 300/300. Total Completed: 118800/220200 (53.95%). Speed: 1382.8 profiles/min. ETA: 1.22 hours.
+[2026-07-03 13:15:02] Batch processed. Fetched: 300/300. Total Completed: 119100/220200 (54.09%). Speed: 1383.0 profiles/min. ETA: 1.22 hours.
+[2026-07-03 13:15:06] Batch processed. Fetched: 300/300. Total Completed: 119400/220200 (54.22%). Speed: 1383.0 profiles/min. ETA: 1.21 hours.
+[2026-07-03 13:15:09] Batch processed. Fetched: 300/300. Total Completed: 119700/220200 (54.36%). Speed: 1383.0 profiles/min. ETA: 1.21 hours.
+[2026-07-03 13:15:13] Batch processed. Fetched: 300/300. Total Completed: 120000/220200 (54.50%). Speed: 1383.5 profiles/min. ETA: 1.21 hours.
+[2026-07-03 13:15:17] Batch processed. Fetched: 300/300. Total Completed: 120300/220200 (54.63%). Speed: 1383.5 profiles/min. ETA: 1.20 hours.
+[2026-07-03 13:15:21] Batch processed. Fetched: 300/300. Total Completed: 120600/220200 (54.77%). Speed: 1383.7 profiles/min. ETA: 1.20 hours.
+[2026-07-03 13:15:24] Batch processed. Fetched: 300/300. Total Completed: 120900/220200 (54.90%). Speed: 1383.7 profiles/min. ETA: 1.20 hours.
+[2026-07-03 13:15:28] Reducing normal delay to 2.80 seconds after 10 consecutive successes.
+[2026-07-03 13:15:28] Batch processed. Fetched: 300/300. Total Completed: 121200/220200 (55.04%). Speed: 1383.9 profiles/min. ETA: 1.19 hours.
+[2026-07-03 13:15:32] Batch processed. Fetched: 300/300. Total Completed: 121500/220200 (55.18%). Speed: 1384.0 profiles/min. ETA: 1.19 hours.
+[2026-07-03 13:15:35] Batch processed. Fetched: 300/300. Total Completed: 121800/220200 (55.31%). Speed: 1384.3 profiles/min. ETA: 1.18 hours.
+[2026-07-03 13:15:39] Batch processed. Fetched: 300/300. Total Completed: 122100/220200 (55.45%). Speed: 1384.0 profiles/min. ETA: 1.18 hours.
+[2026-07-03 13:15:43] Batch processed. Fetched: 300/300. Total Completed: 122400/220200 (55.59%). Speed: 1384.0 profiles/min. ETA: 1.18 hours.
+[2026-07-03 13:15:47] Batch processed. Fetched: 300/300. Total Completed: 122700/220200 (55.72%). Speed: 1384.2 profiles/min. ETA: 1.17 hours.
+[2026-07-03 13:15:50] Batch processed. Fetched: 300/300. Total Completed: 123000/220200 (55.86%). Speed: 1384.2 profiles/min. ETA: 1.17 hours.
+[2026-07-03 13:15:54] Batch processed. Fetched: 300/300. Total Completed: 123300/220200 (55.99%). Speed: 1384.0 profiles/min. ETA: 1.17 hours.
+[2026-07-03 13:15:58] Batch processed. Fetched: 300/300. Total Completed: 123600/220200 (56.13%). Speed: 1383.8 profiles/min. ETA: 1.16 hours.
+[2026-07-03 13:16:02] Batch processed. Fetched: 300/300. Total Completed: 123900/220200 (56.27%). Speed: 1383.6 profiles/min. ETA: 1.16 hours.
+[2026-07-03 13:16:05] Reducing normal delay to 2.70 seconds after 10 consecutive successes.
+[2026-07-03 13:16:06] Batch processed. Fetched: 300/300. Total Completed: 124200/220200 (56.40%). Speed: 1383.3 profiles/min. ETA: 1.16 hours.
+[2026-07-03 13:16:09] HTTP 429 Too Many Requests. Increasing normal delay to 3.20 seconds.
+[2026-07-03 13:16:09] Waiting 60 seconds before retry (429 count: 1)...
+[2026-07-03 13:17:10] HTTP 429 Too Many Requests. Increasing normal delay to 3.70 seconds.
+[2026-07-03 13:17:10] Waiting 120 seconds before retry (429 count: 2)...
+[2026-07-03 13:19:10] HTTP 429 Too Many Requests. Increasing normal delay to 4.20 seconds.
+[2026-07-03 13:19:10] Waiting 180 seconds before retry (429 count: 3)...
+[2026-07-03 13:22:11] HTTP 429 Too Many Requests. Increasing normal delay to 4.70 seconds.
+[2026-07-03 13:22:11] Waiting 240 seconds before retry (429 count: 4)...
+[2026-07-03 13:26:12] Batch processed. Fetched: 300/300. Total Completed: 124500/220200 (56.54%). Speed: 717.8 profiles/min. ETA: 2.22 hours.
+[2026-07-03 13:26:20] Batch processed. Fetched: 300/300. Total Completed: 124800/220200 (56.68%). Speed: 716.6 profiles/min. ETA: 2.22 hours.
+[2026-07-03 13:26:26] Batch processed. Fetched: 300/300. Total Completed: 125100/220200 (56.81%). Speed: 716.6 profiles/min. ETA: 2.21 hours.
+[2026-07-03 13:26:31] Batch processed. Fetched: 300/300. Total Completed: 125400/220200 (56.95%). Speed: 716.7 profiles/min. ETA: 2.20 hours.
+[2026-07-03 13:26:37] Batch processed. Fetched: 300/300. Total Completed: 125700/220200 (57.08%). Speed: 716.9 profiles/min. ETA: 2.20 hours.
+[2026-07-03 13:26:43] Batch processed. Fetched: 300/300. Total Completed: 126000/220200 (57.22%). Speed: 717.2 profiles/min. ETA: 2.19 hours.
+[2026-07-03 13:26:48] Batch processed. Fetched: 300/300. Total Completed: 126300/220200 (57.36%). Speed: 717.5 profiles/min. ETA: 2.18 hours.
+[2026-07-03 13:26:54] Batch processed. Fetched: 300/300. Total Completed: 126600/220200 (57.49%). Speed: 717.8 profiles/min. ETA: 2.17 hours.
+[2026-07-03 13:27:00] Batch processed. Fetched: 300/300. Total Completed: 126900/220200 (57.63%). Speed: 718.1 profiles/min. ETA: 2.17 hours.
+[2026-07-03 13:27:06] Reducing normal delay to 4.60 seconds after 10 consecutive successes.
+[2026-07-03 13:27:06] Batch processed. Fetched: 300/300. Total Completed: 127200/220200 (57.77%). Speed: 718.1 profiles/min. ETA: 2.16 hours.
+[2026-07-03 13:27:11] Batch processed. Fetched: 300/300. Total Completed: 127500/220200 (57.90%). Speed: 1383.7 profiles/min. ETA: 1.12 hours.
+[2026-07-03 13:27:17] Batch processed. Fetched: 300/300. Total Completed: 127800/220200 (58.04%). Speed: 1383.7 profiles/min. ETA: 1.11 hours.
+[2026-07-03 13:27:22] Batch processed. Fetched: 300/300. Total Completed: 128100/220200 (58.17%). Speed: 1383.6 profiles/min. ETA: 1.11 hours.
+[2026-07-03 13:27:28] Batch processed. Fetched: 300/300. Total Completed: 128400/220200 (58.31%). Speed: 1383.2 profiles/min. ETA: 1.11 hours.
+[2026-07-03 13:27:34] Batch processed. Fetched: 300/300. Total Completed: 128700/220200 (58.45%). Speed: 1382.3 profiles/min. ETA: 1.10 hours.
+[2026-07-03 13:27:40] Batch processed. Fetched: 300/300. Total Completed: 129000/220200 (58.58%). Speed: 1381.3 profiles/min. ETA: 1.10 hours.
+[2026-07-03 13:27:45] Batch processed. Fetched: 300/300. Total Completed: 129300/220200 (58.72%). Speed: 1381.5 profiles/min. ETA: 1.10 hours.
+[2026-07-03 13:27:51] Batch processed. Fetched: 300/300. Total Completed: 129600/220200 (58.86%). Speed: 1381.1 profiles/min. ETA: 1.09 hours.
+[2026-07-03 13:27:56] Batch processed. Fetched: 300/300. Total Completed: 129900/220200 (58.99%). Speed: 1380.8 profiles/min. ETA: 1.09 hours.
+[2026-07-03 13:28:02] Reducing normal delay to 4.50 seconds after 10 consecutive successes.
+[2026-07-03 13:28:02] Batch processed. Fetched: 300/300. Total Completed: 130200/220200 (59.13%). Speed: 1380.5 profiles/min. ETA: 1.09 hours.
+[2026-07-03 13:28:07] Batch processed. Fetched: 300/300. Total Completed: 130500/220200 (59.26%). Speed: 1380.5 profiles/min. ETA: 1.08 hours.
+[2026-07-03 13:28:13] Batch processed. Fetched: 300/300. Total Completed: 130800/220200 (59.40%). Speed: 1380.3 profiles/min. ETA: 1.08 hours.
+[2026-07-03 13:28:18] Batch processed. Fetched: 300/300. Total Completed: 131100/220200 (59.54%). Speed: 1380.3 profiles/min. ETA: 1.08 hours.
+[2026-07-03 13:28:24] Batch processed. Fetched: 300/300. Total Completed: 131400/220200 (59.67%). Speed: 1380.2 profiles/min. ETA: 1.07 hours.
+[2026-07-03 13:28:29] Batch processed. Fetched: 300/300. Total Completed: 131700/220200 (59.81%). Speed: 1380.4 profiles/min. ETA: 1.07 hours.
+[2026-07-03 13:28:35] Batch processed. Fetched: 300/300. Total Completed: 132000/220200 (59.95%). Speed: 1380.6 profiles/min. ETA: 1.06 hours.
+[2026-07-03 13:28:40] Batch processed. Fetched: 300/300. Total Completed: 132300/220200 (60.08%). Speed: 1380.6 profiles/min. ETA: 1.06 hours.
+[2026-07-03 13:28:45] Batch processed. Fetched: 300/300. Total Completed: 132600/220200 (60.22%). Speed: 1381.0 profiles/min. ETA: 1.06 hours.
+[2026-07-03 13:28:51] Batch processed. Fetched: 300/300. Total Completed: 132900/220200 (60.35%). Speed: 1381.0 profiles/min. ETA: 1.05 hours.
+[2026-07-03 13:28:56] Reducing normal delay to 4.40 seconds after 10 consecutive successes.
+[2026-07-03 13:28:56] Batch processed. Fetched: 300/300. Total Completed: 133200/220200 (60.49%). Speed: 1381.2 profiles/min. ETA: 1.05 hours.
+[2026-07-03 13:29:02] Batch processed. Fetched: 300/300. Total Completed: 133500/220200 (60.63%). Speed: 1380.9 profiles/min. ETA: 1.05 hours.
+[2026-07-03 13:29:07] Batch processed. Fetched: 300/300. Total Completed: 133800/220200 (60.76%). Speed: 1380.7 profiles/min. ETA: 1.04 hours.
+[2026-07-03 13:29:13] Batch processed. Fetched: 300/300. Total Completed: 134100/220200 (60.90%). Speed: 1380.0 profiles/min. ETA: 1.04 hours.
+[2026-07-03 13:29:18] Batch processed. Fetched: 300/300. Total Completed: 134400/220200 (61.04%). Speed: 1379.9 profiles/min. ETA: 1.04 hours.
+[2026-07-03 13:29:24] Batch processed. Fetched: 300/300. Total Completed: 134700/220200 (61.17%). Speed: 1378.9 profiles/min. ETA: 1.03 hours.
+[2026-07-03 13:29:29] Batch processed. Fetched: 300/300. Total Completed: 135000/220200 (61.31%). Speed: 1378.3 profiles/min. ETA: 1.03 hours.
+[2026-07-03 13:29:35] Batch processed. Fetched: 300/300. Total Completed: 135300/220200 (61.44%). Speed: 1378.0 profiles/min. ETA: 1.03 hours.
+[2026-07-03 13:29:40] Batch processed. Fetched: 300/300. Total Completed: 135600/220200 (61.58%). Speed: 1378.0 profiles/min. ETA: 1.02 hours.
+[2026-07-03 13:29:45] Batch processed. Fetched: 300/300. Total Completed: 135900/220200 (61.72%). Speed: 1377.7 profiles/min. ETA: 1.02 hours.
+[2026-07-03 13:29:51] Reducing normal delay to 4.30 seconds after 10 consecutive successes.
+[2026-07-03 13:29:51] Batch processed. Fetched: 300/300. Total Completed: 136200/220200 (61.85%). Speed: 1377.4 profiles/min. ETA: 1.02 hours.
+[2026-07-03 13:29:56] HTTP 429 Too Many Requests. Increasing normal delay to 4.80 seconds.
+[2026-07-03 13:29:56] Waiting 60 seconds before retry (429 count: 1)...
+[2026-07-03 13:30:57] HTTP 429 Too Many Requests. Increasing normal delay to 5.00 seconds.
+[2026-07-03 13:30:57] Waiting 120 seconds before retry (429 count: 2)...
+[2026-07-03 13:32:57] HTTP 429 Too Many Requests. Increasing normal delay to 5.00 seconds.
+[2026-07-03 13:32:57] Waiting 180 seconds before retry (429 count: 3)...
+[2026-07-03 13:35:58] HTTP 429 Too Many Requests. Increasing normal delay to 5.00 seconds.
+[2026-07-03 13:35:58] Waiting 240 seconds before retry (429 count: 4)...
+[2026-07-03 13:39:59] Batch processed. Fetched: 300/300. Total Completed: 136500/220200 (61.99%). Speed: 716.4 profiles/min. ETA: 1.95 hours.
+[2026-07-03 13:40:05] Batch processed. Fetched: 300/300. Total Completed: 136800/220200 (62.13%). Speed: 716.5 profiles/min. ETA: 1.94 hours.
+[2026-07-03 13:40:10] Batch processed. Fetched: 300/300. Total Completed: 137100/220200 (62.26%). Speed: 716.6 profiles/min. ETA: 1.93 hours.
+[2026-07-03 13:40:16] Batch processed. Fetched: 300/300. Total Completed: 137400/220200 (62.40%). Speed: 716.6 profiles/min. ETA: 1.93 hours.
+[2026-07-03 13:40:22] Batch processed. Fetched: 300/300. Total Completed: 137700/220200 (62.53%). Speed: 716.6 profiles/min. ETA: 1.92 hours.
+[2026-07-03 13:40:28] Batch processed. Fetched: 300/300. Total Completed: 138000/220200 (62.67%). Speed: 716.5 profiles/min. ETA: 1.91 hours.
+[2026-07-03 13:40:34] Batch processed. Fetched: 300/300. Total Completed: 138300/220200 (62.81%). Speed: 716.5 profiles/min. ETA: 1.91 hours.
+[2026-07-03 13:40:40] Batch processed. Fetched: 300/300. Total Completed: 138600/220200 (62.94%). Speed: 716.7 profiles/min. ETA: 1.90 hours.
+[2026-07-03 13:40:46] Batch processed. Fetched: 300/300. Total Completed: 138900/220200 (63.08%). Speed: 716.8 profiles/min. ETA: 1.89 hours.
+[2026-07-03 13:40:52] Reducing normal delay to 4.90 seconds after 10 consecutive successes.
+[2026-07-03 13:40:52] Batch processed. Fetched: 300/300. Total Completed: 139200/220200 (63.22%). Speed: 716.7 profiles/min. ETA: 1.88 hours.
+[2026-07-03 13:40:58] Batch processed. Fetched: 300/300. Total Completed: 139500/220200 (63.35%). Speed: 1379.6 profiles/min. ETA: 0.97 hours.
+[2026-07-03 13:41:03] Batch processed. Fetched: 300/300. Total Completed: 139800/220200 (63.49%). Speed: 1384.2 profiles/min. ETA: 0.97 hours.
+[2026-07-03 13:41:09] Batch processed. Fetched: 300/300. Total Completed: 140100/220200 (63.62%). Speed: 1384.4 profiles/min. ETA: 0.96 hours.
+[2026-07-03 13:41:15] Batch processed. Fetched: 300/300. Total Completed: 140400/220200 (63.76%). Speed: 1384.5 profiles/min. ETA: 0.96 hours.
+[2026-07-03 13:41:21] Batch processed. Fetched: 300/300. Total Completed: 140700/220200 (63.90%). Speed: 1385.0 profiles/min. ETA: 0.96 hours.
+[2026-07-03 13:41:26] Batch processed. Fetched: 300/300. Total Completed: 141000/220200 (64.03%). Speed: 1385.0 profiles/min. ETA: 0.95 hours.
+[2026-07-03 13:41:32] Batch processed. Fetched: 300/300. Total Completed: 141300/220200 (64.17%). Speed: 1384.6 profiles/min. ETA: 0.95 hours.
+[2026-07-03 13:41:38] Batch processed. Fetched: 300/300. Total Completed: 141600/220200 (64.31%). Speed: 1384.7 profiles/min. ETA: 0.95 hours.
+[2026-07-03 13:41:44] Batch processed. Fetched: 300/300. Total Completed: 141900/220200 (64.44%). Speed: 1385.0 profiles/min. ETA: 0.94 hours.
+[2026-07-03 13:41:50] Reducing normal delay to 4.80 seconds after 10 consecutive successes.
+[2026-07-03 13:41:50] Batch processed. Fetched: 300/300. Total Completed: 142200/220200 (64.58%). Speed: 1385.8 profiles/min. ETA: 0.94 hours.
+[2026-07-03 13:41:55] Batch processed. Fetched: 300/300. Total Completed: 142500/220200 (64.71%). Speed: 1385.8 profiles/min. ETA: 0.93 hours.
+[2026-07-03 13:42:01] Batch processed. Fetched: 300/300. Total Completed: 142800/220200 (64.85%). Speed: 1385.7 profiles/min. ETA: 0.93 hours.
+[2026-07-03 13:42:07] Batch processed. Fetched: 300/300. Total Completed: 143100/220200 (64.99%). Speed: 1385.7 profiles/min. ETA: 0.93 hours.
+[2026-07-03 13:42:13] Batch processed. Fetched: 300/300. Total Completed: 143400/220200 (65.12%). Speed: 1386.2 profiles/min. ETA: 0.92 hours.
+[2026-07-03 13:42:18] Batch processed. Fetched: 300/300. Total Completed: 143700/220200 (65.26%). Speed: 1386.9 profiles/min. ETA: 0.92 hours.
+[2026-07-03 13:42:24] Batch processed. Fetched: 300/300. Total Completed: 144000/220200 (65.40%). Speed: 1387.5 profiles/min. ETA: 0.92 hours.
+[2026-07-03 13:42:30] Batch processed. Fetched: 300/300. Total Completed: 144300/220200 (65.53%). Speed: 1387.5 profiles/min. ETA: 0.91 hours.
+[2026-07-03 13:42:36] Batch processed. Fetched: 300/300. Total Completed: 144600/220200 (65.67%). Speed: 1387.8 profiles/min. ETA: 0.91 hours.
+[2026-07-03 13:42:41] Batch processed. Fetched: 300/300. Total Completed: 144900/220200 (65.80%). Speed: 1388.0 profiles/min. ETA: 0.90 hours.
+[2026-07-03 13:42:47] Reducing normal delay to 4.70 seconds after 10 consecutive successes.
+[2026-07-03 13:42:47] Batch processed. Fetched: 300/300. Total Completed: 145200/220200 (65.94%). Speed: 1388.4 profiles/min. ETA: 0.90 hours.
+[2026-07-03 13:42:53] Batch processed. Fetched: 300/300. Total Completed: 145500/220200 (66.08%). Speed: 1388.3 profiles/min. ETA: 0.90 hours.
+[2026-07-03 13:42:58] Batch processed. Fetched: 300/300. Total Completed: 145800/220200 (66.21%). Speed: 1388.6 profiles/min. ETA: 0.89 hours.
+[2026-07-03 13:43:04] Batch processed. Fetched: 300/300. Total Completed: 146100/220200 (66.35%). Speed: 1388.7 profiles/min. ETA: 0.89 hours.
+[2026-07-03 13:43:09] Batch processed. Fetched: 300/300. Total Completed: 146400/220200 (66.49%). Speed: 1388.9 profiles/min. ETA: 0.89 hours.
+[2026-07-03 13:43:15] Batch processed. Fetched: 300/300. Total Completed: 146700/220200 (66.62%). Speed: 1389.0 profiles/min. ETA: 0.88 hours.
+[2026-07-03 13:43:21] Batch processed. Fetched: 300/300. Total Completed: 147000/220200 (66.76%). Speed: 1388.9 profiles/min. ETA: 0.88 hours.
+[2026-07-03 13:43:26] Batch processed. Fetched: 300/300. Total Completed: 147300/220200 (66.89%). Speed: 1389.1 profiles/min. ETA: 0.87 hours.
+[2026-07-03 13:43:35] Batch processed. Fetched: 300/300. Total Completed: 147600/220200 (67.03%). Speed: 1382.3 profiles/min. ETA: 0.88 hours.
+[2026-07-03 13:43:40] Batch processed. Fetched: 300/300. Total Completed: 147900/220200 (67.17%). Speed: 1382.4 profiles/min. ETA: 0.87 hours.
+[2026-07-03 13:43:46] Reducing normal delay to 4.60 seconds after 10 consecutive successes.
+[2026-07-03 13:43:46] Batch processed. Fetched: 300/300. Total Completed: 148200/220200 (67.30%). Speed: 1382.4 profiles/min. ETA: 0.87 hours.
+[2026-07-03 13:43:51] HTTP 429 Too Many Requests. Increasing normal delay to 5.00 seconds.
+[2026-07-03 13:43:51] Waiting 60 seconds before retry (429 count: 1)...
+[2026-07-03 13:44:52] HTTP 429 Too Many Requests. Increasing normal delay to 5.00 seconds.
+[2026-07-03 13:44:52] Waiting 120 seconds before retry (429 count: 2)...
+[2026-07-03 13:46:53] HTTP 429 Too Many Requests. Increasing normal delay to 5.00 seconds.
+[2026-07-03 13:46:53] Waiting 180 seconds before retry (429 count: 3)...
+[2026-07-03 13:49:53] HTTP 429 Too Many Requests. Increasing normal delay to 5.00 seconds.
+[2026-07-03 13:49:53] Waiting 240 seconds before retry (429 count: 4)...
+[2026-07-03 13:53:54] Batch processed. Fetched: 300/300. Total Completed: 148500/220200 (67.44%). Speed: 717.8 profiles/min. ETA: 1.66 hours.
+[2026-07-03 13:54:00] Batch processed. Fetched: 300/300. Total Completed: 148800/220200 (67.57%). Speed: 717.9 profiles/min. ETA: 1.66 hours.
+[2026-07-03 13:54:06] Batch processed. Fetched: 300/300. Total Completed: 149100/220200 (67.71%). Speed: 718.0 profiles/min. ETA: 1.65 hours.
+[2026-07-03 13:54:12] Batch processed. Fetched: 300/300. Total Completed: 149400/220200 (67.85%). Speed: 718.0 profiles/min. ETA: 1.64 hours.
+[2026-07-03 13:54:18] Batch processed. Fetched: 300/300. Total Completed: 149700/220200 (67.98%). Speed: 718.3 profiles/min. ETA: 1.64 hours.
+[2026-07-03 13:54:24] Batch processed. Fetched: 300/300. Total Completed: 150000/220200 (68.12%). Speed: 718.5 profiles/min. ETA: 1.63 hours.
+[2026-07-03 13:54:30] Batch processed. Fetched: 300/300. Total Completed: 150300/220200 (68.26%). Speed: 718.5 profiles/min. ETA: 1.62 hours.
+[2026-07-03 13:54:36] Batch processed. Fetched: 300/300. Total Completed: 150600/220200 (68.39%). Speed: 718.6 profiles/min. ETA: 1.61 hours.
+[2026-07-03 13:54:41] Batch processed. Fetched: 300/300. Total Completed: 150900/220200 (68.53%). Speed: 718.7 profiles/min. ETA: 1.61 hours.
+[2026-07-03 13:54:47] Reducing normal delay to 4.90 seconds after 10 consecutive successes.
+[2026-07-03 13:54:47] Batch processed. Fetched: 300/300. Total Completed: 151200/220200 (68.66%). Speed: 718.7 profiles/min. ETA: 1.60 hours.
+[2026-07-03 13:54:53] Batch processed. Fetched: 300/300. Total Completed: 151500/220200 (68.80%). Speed: 1386.0 profiles/min. ETA: 0.83 hours.
+[2026-07-03 13:54:59] Batch processed. Fetched: 300/300. Total Completed: 151800/220200 (68.94%). Speed: 1385.8 profiles/min. ETA: 0.82 hours.
+[2026-07-03 13:55:05] Batch processed. Fetched: 300/300. Total Completed: 152100/220200 (69.07%). Speed: 1385.5 profiles/min. ETA: 0.82 hours.
+[2026-07-03 13:55:11] Batch processed. Fetched: 300/300. Total Completed: 152400/220200 (69.21%). Speed: 1385.1 profiles/min. ETA: 0.82 hours.
+[2026-07-03 13:55:16] Batch processed. Fetched: 300/300. Total Completed: 152700/220200 (69.35%). Speed: 1385.0 profiles/min. ETA: 0.81 hours.
+[2026-07-03 13:55:22] Batch processed. Fetched: 300/300. Total Completed: 153000/220200 (69.48%). Speed: 1385.4 profiles/min. ETA: 0.81 hours.
+[2026-07-03 13:55:28] Batch processed. Fetched: 300/300. Total Completed: 153300/220200 (69.62%). Speed: 1385.1 profiles/min. ETA: 0.81 hours.
+[2026-07-03 13:55:34] Batch processed. Fetched: 300/300. Total Completed: 153600/220200 (69.75%). Speed: 1384.7 profiles/min. ETA: 0.80 hours.
+[2026-07-03 13:55:40] Batch processed. Fetched: 300/300. Total Completed: 153900/220200 (69.89%). Speed: 1384.3 profiles/min. ETA: 0.80 hours.
+[2026-07-03 13:55:46] Reducing normal delay to 4.80 seconds after 10 consecutive successes.
+[2026-07-03 13:55:46] Batch processed. Fetched: 300/300. Total Completed: 154200/220200 (70.03%). Speed: 1384.7 profiles/min. ETA: 0.79 hours.
+[2026-07-03 13:55:51] Batch processed. Fetched: 300/300. Total Completed: 154500/220200 (70.16%). Speed: 1384.6 profiles/min. ETA: 0.79 hours.
+[2026-07-03 13:55:57] Batch processed. Fetched: 300/300. Total Completed: 154800/220200 (70.30%). Speed: 1384.3 profiles/min. ETA: 0.79 hours.
+[2026-07-03 13:56:03] Batch processed. Fetched: 300/300. Total Completed: 155100/220200 (70.44%). Speed: 1384.3 profiles/min. ETA: 0.78 hours.
+[2026-07-03 13:56:09] Batch processed. Fetched: 300/300. Total Completed: 155400/220200 (70.57%). Speed: 1384.1 profiles/min. ETA: 0.78 hours.
+[2026-07-03 13:56:14] Batch processed. Fetched: 300/300. Total Completed: 155700/220200 (70.71%). Speed: 1384.0 profiles/min. ETA: 0.78 hours.
+[2026-07-03 13:56:20] Batch processed. Fetched: 300/300. Total Completed: 156000/220200 (70.84%). Speed: 1383.9 profiles/min. ETA: 0.77 hours.
+[2026-07-03 13:56:26] Batch processed. Fetched: 300/300. Total Completed: 156300/220200 (70.98%). Speed: 1384.2 profiles/min. ETA: 0.77 hours.
+[2026-07-03 13:56:31] Batch processed. Fetched: 300/300. Total Completed: 156600/220200 (71.12%). Speed: 1384.2 profiles/min. ETA: 0.77 hours.
+[2026-07-03 13:56:37] Batch processed. Fetched: 300/300. Total Completed: 156900/220200 (71.25%). Speed: 1384.2 profiles/min. ETA: 0.76 hours.
+[2026-07-03 13:56:43] Reducing normal delay to 4.70 seconds after 10 consecutive successes.
+[2026-07-03 13:56:43] Batch processed. Fetched: 300/300. Total Completed: 157200/220200 (71.39%). Speed: 1384.2 profiles/min. ETA: 0.76 hours.
+[2026-07-03 13:56:48] Batch processed. Fetched: 300/300. Total Completed: 157500/220200 (71.53%). Speed: 1384.1 profiles/min. ETA: 0.76 hours.
+[2026-07-03 13:56:54] Batch processed. Fetched: 300/300. Total Completed: 157800/220200 (71.66%). Speed: 1383.6 profiles/min. ETA: 0.75 hours.
+[2026-07-03 13:57:00] Batch processed. Fetched: 300/300. Total Completed: 158100/220200 (71.80%). Speed: 1383.6 profiles/min. ETA: 0.75 hours.
+[2026-07-03 13:57:06] Batch processed. Fetched: 300/300. Total Completed: 158400/220200 (71.93%). Speed: 1383.4 profiles/min. ETA: 0.74 hours.
+[2026-07-03 13:57:11] Batch processed. Fetched: 300/300. Total Completed: 158700/220200 (72.07%). Speed: 1383.3 profiles/min. ETA: 0.74 hours.
+[2026-07-03 13:57:17] Batch processed. Fetched: 300/300. Total Completed: 159000/220200 (72.21%). Speed: 1383.5 profiles/min. ETA: 0.74 hours.
+[2026-07-03 13:57:23] Batch processed. Fetched: 300/300. Total Completed: 159300/220200 (72.34%). Speed: 1383.3 profiles/min. ETA: 0.73 hours.
+[2026-07-03 13:57:28] Batch processed. Fetched: 300/300. Total Completed: 159600/220200 (72.48%). Speed: 1383.4 profiles/min. ETA: 0.73 hours.
+[2026-07-03 13:57:34] Batch processed. Fetched: 300/300. Total Completed: 159900/220200 (72.62%). Speed: 1383.3 profiles/min. ETA: 0.73 hours.
+[2026-07-03 13:57:40] Reducing normal delay to 4.60 seconds after 10 consecutive successes.
+[2026-07-03 13:57:40] Batch processed. Fetched: 300/300. Total Completed: 160200/220200 (72.75%). Speed: 1383.0 profiles/min. ETA: 0.72 hours.
+[2026-07-03 13:57:45] HTTP 429 Too Many Requests. Increasing normal delay to 5.00 seconds.
+[2026-07-03 13:57:45] Waiting 60 seconds before retry (429 count: 1)...
+[2026-07-03 13:58:46] HTTP 429 Too Many Requests. Increasing normal delay to 5.00 seconds.
+[2026-07-03 13:58:46] Waiting 120 seconds before retry (429 count: 2)...
+[2026-07-03 14:00:46] HTTP 429 Too Many Requests. Increasing normal delay to 5.00 seconds.
+[2026-07-03 14:00:46] Waiting 180 seconds before retry (429 count: 3)...
+[2026-07-03 14:03:47] HTTP 429 Too Many Requests. Increasing normal delay to 5.00 seconds.
+[2026-07-03 14:03:47] Waiting 240 seconds before retry (429 count: 4)...
+[2026-07-03 14:07:48] Batch processed. Fetched: 300/300. Total Completed: 160500/220200 (72.89%). Speed: 717.7 profiles/min. ETA: 1.39 hours.
+[2026-07-03 14:07:55] Batch processed. Fetched: 300/300. Total Completed: 160800/220200 (73.02%). Speed: 717.5 profiles/min. ETA: 1.38 hours.
+[2026-07-03 14:08:01] Batch processed. Fetched: 300/300. Total Completed: 161100/220200 (73.16%). Speed: 717.2 profiles/min. ETA: 1.37 hours.
+[2026-07-03 14:08:08] Batch processed. Fetched: 300/300. Total Completed: 161400/220200 (73.30%). Speed: 716.9 profiles/min. ETA: 1.37 hours.
+[2026-07-03 14:08:14] Batch processed. Fetched: 300/300. Total Completed: 161700/220200 (73.43%). Speed: 716.3 profiles/min. ETA: 1.36 hours.
+[2026-07-03 14:08:23] Batch processed. Fetched: 300/300. Total Completed: 162000/220200 (73.57%). Speed: 714.7 profiles/min. ETA: 1.36 hours.
+[2026-07-03 14:08:32] Batch processed. Fetched: 300/300. Total Completed: 162300/220200 (73.71%). Speed: 712.9 profiles/min. ETA: 1.35 hours.
+[2026-07-03 14:08:40] Batch processed. Fetched: 300/300. Total Completed: 162600/220200 (73.84%). Speed: 713.6 profiles/min. ETA: 1.35 hours.
+[2026-07-03 14:08:51] Batch processed. Fetched: 300/300. Total Completed: 162900/220200 (73.98%). Speed: 710.9 profiles/min. ETA: 1.34 hours.
+[2026-07-03 14:08:58] Reducing normal delay to 4.90 seconds after 10 consecutive successes.
+[2026-07-03 14:08:58] Batch processed. Fetched: 300/300. Total Completed: 163200/220200 (74.11%). Speed: 710.1 profiles/min. ETA: 1.34 hours.
+[2026-07-03 14:09:04] Batch processed. Fetched: 300/300. Total Completed: 163500/220200 (74.25%). Speed: 1353.6 profiles/min. ETA: 0.70 hours.
+[2026-07-03 14:09:11] Batch processed. Fetched: 300/300. Total Completed: 163800/220200 (74.39%). Speed: 1352.8 profiles/min. ETA: 0.69 hours.
+[2026-07-03 14:09:17] Batch processed. Fetched: 300/300. Total Completed: 164100/220200 (74.52%). Speed: 1352.4 profiles/min. ETA: 0.69 hours.
+[2026-07-03 14:09:23] Batch processed. Fetched: 300/300. Total Completed: 164400/220200 (74.66%). Speed: 1351.2 profiles/min. ETA: 0.69 hours.
+[2026-07-03 14:09:29] Batch processed. Fetched: 300/300. Total Completed: 164700/220200 (74.80%). Speed: 1350.4 profiles/min. ETA: 0.68 hours.
+[2026-07-03 14:09:36] Batch processed. Fetched: 300/300. Total Completed: 165000/220200 (74.93%). Speed: 1349.6 profiles/min. ETA: 0.68 hours.
+[2026-07-03 14:09:42] Batch processed. Fetched: 300/300. Total Completed: 165300/220200 (75.07%). Speed: 1348.7 profiles/min. ETA: 0.68 hours.
+[2026-07-03 14:09:48] Batch processed. Fetched: 300/300. Total Completed: 165600/220200 (75.20%). Speed: 1348.0 profiles/min. ETA: 0.68 hours.
+[2026-07-03 14:09:54] Batch processed. Fetched: 300/300. Total Completed: 165900/220200 (75.34%). Speed: 1347.3 profiles/min. ETA: 0.67 hours.
+[2026-07-03 14:10:00] Reducing normal delay to 4.80 seconds after 10 consecutive successes.
+[2026-07-03 14:10:00] Batch processed. Fetched: 300/300. Total Completed: 166200/220200 (75.48%). Speed: 1346.7 profiles/min. ETA: 0.67 hours.
+[2026-07-03 14:10:06] Batch processed. Fetched: 300/300. Total Completed: 166500/220200 (75.61%). Speed: 1345.5 profiles/min. ETA: 0.67 hours.
+[2026-07-03 14:10:13] Batch processed. Fetched: 300/300. Total Completed: 166800/220200 (75.75%). Speed: 1344.4 profiles/min. ETA: 0.66 hours.
+[2026-07-03 14:10:19] Batch processed. Fetched: 300/300. Total Completed: 167100/220200 (75.89%). Speed: 1343.5 profiles/min. ETA: 0.66 hours.
+[2026-07-03 14:10:25] Batch processed. Fetched: 300/300. Total Completed: 167400/220200 (76.02%). Speed: 1343.0 profiles/min. ETA: 0.66 hours.
+[2026-07-03 14:10:31] Batch processed. Fetched: 300/300. Total Completed: 167700/220200 (76.16%). Speed: 1341.7 profiles/min. ETA: 0.65 hours.
+[2026-07-03 14:10:38] Batch processed. Fetched: 300/300. Total Completed: 168000/220200 (76.29%). Speed: 1340.3 profiles/min. ETA: 0.65 hours.
+[2026-07-03 14:10:44] Batch processed. Fetched: 300/300. Total Completed: 168300/220200 (76.43%). Speed: 1339.3 profiles/min. ETA: 0.65 hours.
+[2026-07-03 14:10:51] Batch processed. Fetched: 300/300. Total Completed: 168600/220200 (76.57%). Speed: 1337.6 profiles/min. ETA: 0.64 hours.
+[2026-07-03 14:10:57] Batch processed. Fetched: 300/300. Total Completed: 168900/220200 (76.70%). Speed: 1337.0 profiles/min. ETA: 0.64 hours.
+[2026-07-03 14:11:03] Reducing normal delay to 4.70 seconds after 10 consecutive successes.
+[2026-07-03 14:11:03] Batch processed. Fetched: 300/300. Total Completed: 169200/220200 (76.84%). Speed: 1336.4 profiles/min. ETA: 0.64 hours.
+[2026-07-03 14:11:09] Batch processed. Fetched: 300/300. Total Completed: 169500/220200 (76.98%). Speed: 1335.6 profiles/min. ETA: 0.63 hours.
+[2026-07-03 14:11:15] Batch processed. Fetched: 300/300. Total Completed: 169800/220200 (77.11%). Speed: 1334.7 profiles/min. ETA: 0.63 hours.
+[2026-07-03 14:11:21] Batch processed. Fetched: 300/300. Total Completed: 170100/220200 (77.25%). Speed: 1333.9 profiles/min. ETA: 0.63 hours.
+[2026-07-03 14:11:27] Batch processed. Fetched: 300/300. Total Completed: 170400/220200 (77.38%). Speed: 1333.2 profiles/min. ETA: 0.62 hours.
+[2026-07-03 14:11:34] Batch processed. Fetched: 300/300. Total Completed: 170700/220200 (77.52%). Speed: 1332.1 profiles/min. ETA: 0.62 hours.
+[2026-07-03 14:11:40] Batch processed. Fetched: 300/300. Total Completed: 171000/220200 (77.66%). Speed: 1331.3 profiles/min. ETA: 0.62 hours.
+[2026-07-03 14:11:46] Batch processed. Fetched: 300/300. Total Completed: 171300/220200 (77.79%). Speed: 1330.3 profiles/min. ETA: 0.61 hours.
+[2026-07-03 14:11:52] Batch processed. Fetched: 300/300. Total Completed: 171600/220200 (77.93%). Speed: 1329.5 profiles/min. ETA: 0.61 hours.
+[2026-07-03 14:11:58] Batch processed. Fetched: 300/300. Total Completed: 171900/220200 (78.07%). Speed: 1328.5 profiles/min. ETA: 0.61 hours.
+[2026-07-03 14:12:04] Reducing normal delay to 4.60 seconds after 10 consecutive successes.
+[2026-07-03 14:12:04] Batch processed. Fetched: 300/300. Total Completed: 172200/220200 (78.20%). Speed: 1326.9 profiles/min. ETA: 0.60 hours.
+[2026-07-03 14:12:10] HTTP 429 Too Many Requests. Increasing normal delay to 5.00 seconds.
+[2026-07-03 14:12:10] Waiting 60 seconds before retry (429 count: 1)...
+[2026-07-03 14:13:11] HTTP 429 Too Many Requests. Increasing normal delay to 5.00 seconds.
+[2026-07-03 14:13:11] Waiting 120 seconds before retry (429 count: 2)...
+[2026-07-03 14:15:12] HTTP 429 Too Many Requests. Increasing normal delay to 5.00 seconds.
+[2026-07-03 14:15:12] Waiting 180 seconds before retry (429 count: 3)...
+[2026-07-03 14:18:13] Batch processed. Fetched: 300/300. Total Completed: 172500/220200 (78.34%). Speed: 863.9 profiles/min. ETA: 0.92 hours.
+[2026-07-03 14:18:20] Batch processed. Fetched: 300/300. Total Completed: 172800/220200 (78.47%). Speed: 863.7 profiles/min. ETA: 0.91 hours.
+[2026-07-03 14:18:26] Batch processed. Fetched: 300/300. Total Completed: 173100/220200 (78.61%). Speed: 863.4 profiles/min. ETA: 0.91 hours.
+[2026-07-03 14:18:33] Batch processed. Fetched: 300/300. Total Completed: 173400/220200 (78.75%). Speed: 863.1 profiles/min. ETA: 0.90 hours.
+[2026-07-03 14:18:39] Batch processed. Fetched: 300/300. Total Completed: 173700/220200 (78.88%). Speed: 862.8 profiles/min. ETA: 0.90 hours.
+[2026-07-03 14:18:45] Batch processed. Fetched: 300/300. Total Completed: 174000/220200 (79.02%). Speed: 862.5 profiles/min. ETA: 0.89 hours.
+[2026-07-03 14:18:52] Batch processed. Fetched: 300/300. Total Completed: 174300/220200 (79.16%). Speed: 862.2 profiles/min. ETA: 0.89 hours.
+[2026-07-03 14:18:58] Batch processed. Fetched: 300/300. Total Completed: 174600/220200 (79.29%). Speed: 861.9 profiles/min. ETA: 0.88 hours.
+[2026-07-03 14:19:04] Batch processed. Fetched: 300/300. Total Completed: 174900/220200 (79.43%). Speed: 861.6 profiles/min. ETA: 0.88 hours.
+[2026-07-03 14:19:11] Reducing normal delay to 4.90 seconds after 10 consecutive successes.
+[2026-07-03 14:19:11] Batch processed. Fetched: 300/300. Total Completed: 175200/220200 (79.56%). Speed: 861.3 profiles/min. ETA: 0.87 hours.
+[2026-07-03 14:19:17] Batch processed. Fetched: 300/300. Total Completed: 175500/220200 (79.70%). Speed: 2035.2 profiles/min. ETA: 0.37 hours.
+[2026-07-03 14:19:23] Batch processed. Fetched: 300/300. Total Completed: 175800/220200 (79.84%). Speed: 2035.1 profiles/min. ETA: 0.36 hours.
+[2026-07-03 14:19:30] Batch processed. Fetched: 300/300. Total Completed: 176100/220200 (79.97%). Speed: 2035.3 profiles/min. ETA: 0.36 hours.
+[2026-07-03 14:19:36] Batch processed. Fetched: 300/300. Total Completed: 176400/220200 (80.11%). Speed: 2035.2 profiles/min. ETA: 0.36 hours.
+[2026-07-03 14:19:42] Batch processed. Fetched: 300/300. Total Completed: 176700/220200 (80.25%). Speed: 2037.2 profiles/min. ETA: 0.36 hours.
+[2026-07-03 14:19:49] Batch processed. Fetched: 300/300. Total Completed: 177000/220200 (80.38%). Speed: 2046.1 profiles/min. ETA: 0.35 hours.
+[2026-07-03 14:19:56] Batch processed. Fetched: 300/300. Total Completed: 177300/220200 (80.52%). Speed: 2058.9 profiles/min. ETA: 0.35 hours.
+[2026-07-03 14:20:02] Batch processed. Fetched: 300/300. Total Completed: 177600/220200 (80.65%). Speed: 2065.7 profiles/min. ETA: 0.34 hours.
+[2026-07-03 14:20:08] Batch processed. Fetched: 300/300. Total Completed: 177900/220200 (80.79%). Speed: 2086.3 profiles/min. ETA: 0.34 hours.
+[2026-07-03 14:20:14] Reducing normal delay to 4.80 seconds after 10 consecutive successes.
+[2026-07-03 14:20:14] Batch processed. Fetched: 300/300. Total Completed: 178200/220200 (80.93%). Speed: 2091.3 profiles/min. ETA: 0.33 hours.
+[2026-07-03 14:20:20] Batch processed. Fetched: 300/300. Total Completed: 178500/220200 (81.06%). Speed: 2091.1 profiles/min. ETA: 0.33 hours.
+[2026-07-03 14:20:27] Batch processed. Fetched: 300/300. Total Completed: 178800/220200 (81.20%). Speed: 2091.3 profiles/min. ETA: 0.33 hours.
+[2026-07-03 14:20:33] Batch processed. Fetched: 300/300. Total Completed: 179100/220200 (81.34%). Speed: 2090.8 profiles/min. ETA: 0.33 hours.
+[2026-07-03 14:20:39] Batch processed. Fetched: 300/300. Total Completed: 179400/220200 (81.47%). Speed: 2091.1 profiles/min. ETA: 0.33 hours.
+[2026-07-03 14:20:45] Batch processed. Fetched: 300/300. Total Completed: 179700/220200 (81.61%). Speed: 2091.1 profiles/min. ETA: 0.32 hours.
+[2026-07-03 14:20:51] Batch processed. Fetched: 300/300. Total Completed: 180000/220200 (81.74%). Speed: 2090.5 profiles/min. ETA: 0.32 hours.
+[2026-07-03 14:20:57] Batch processed. Fetched: 300/300. Total Completed: 180300/220200 (81.88%). Speed: 2090.7 profiles/min. ETA: 0.32 hours.
+[2026-07-03 14:21:04] Batch processed. Fetched: 300/300. Total Completed: 180600/220200 (82.02%). Speed: 2089.8 profiles/min. ETA: 0.32 hours.
+[2026-07-03 14:21:10] Batch processed. Fetched: 300/300. Total Completed: 180900/220200 (82.15%). Speed: 2089.4 profiles/min. ETA: 0.31 hours.
+[2026-07-03 14:21:16] Reducing normal delay to 4.70 seconds after 10 consecutive successes.
+[2026-07-03 14:21:16] Batch processed. Fetched: 300/300. Total Completed: 181200/220200 (82.29%). Speed: 2088.3 profiles/min. ETA: 0.31 hours.
+[2026-07-03 14:21:22] Batch processed. Fetched: 300/300. Total Completed: 181500/220200 (82.43%). Speed: 2088.2 profiles/min. ETA: 0.31 hours.
+[2026-07-03 14:21:28] Batch processed. Fetched: 300/300. Total Completed: 181800/220200 (82.56%). Speed: 2087.3 profiles/min. ETA: 0.31 hours.
+[2026-07-03 14:21:35] Batch processed. Fetched: 300/300. Total Completed: 182100/220200 (82.70%). Speed: 2087.0 profiles/min. ETA: 0.30 hours.
+[2026-07-03 14:21:41] Batch processed. Fetched: 300/300. Total Completed: 182400/220200 (82.83%). Speed: 2085.7 profiles/min. ETA: 0.30 hours.
+[2026-07-03 14:21:47] Batch processed. Fetched: 300/300. Total Completed: 182700/220200 (82.97%). Speed: 2086.6 profiles/min. ETA: 0.30 hours.
+[2026-07-03 14:21:53] Batch processed. Fetched: 300/300. Total Completed: 183000/220200 (83.11%). Speed: 2087.0 profiles/min. ETA: 0.30 hours.
+[2026-07-03 14:21:59] Batch processed. Fetched: 300/300. Total Completed: 183300/220200 (83.24%). Speed: 2088.6 profiles/min. ETA: 0.29 hours.
+[2026-07-03 14:22:06] Batch processed. Fetched: 300/300. Total Completed: 183600/220200 (83.38%). Speed: 2090.9 profiles/min. ETA: 0.29 hours.
+[2026-07-03 14:22:12] Batch processed. Fetched: 300/300. Total Completed: 183900/220200 (83.51%). Speed: 2090.8 profiles/min. ETA: 0.29 hours.
+[2026-07-03 14:22:17] Reducing normal delay to 4.60 seconds after 10 consecutive successes.
+[2026-07-03 14:22:18] Batch processed. Fetched: 300/300. Total Completed: 184200/220200 (83.65%). Speed: 2090.8 profiles/min. ETA: 0.29 hours.
+[2026-07-03 14:22:23] HTTP 429 Too Many Requests. Increasing normal delay to 5.00 seconds.
+[2026-07-03 14:22:23] Waiting 60 seconds before retry (429 count: 1)...
+[2026-07-03 14:23:24] HTTP 429 Too Many Requests. Increasing normal delay to 5.00 seconds.
+[2026-07-03 14:23:24] Waiting 120 seconds before retry (429 count: 2)...
+[2026-07-03 14:25:25] HTTP 429 Too Many Requests. Increasing normal delay to 5.00 seconds.
+[2026-07-03 14:25:25] Waiting 180 seconds before retry (429 count: 3)...
+[2026-07-03 14:28:27] Batch processed. Fetched: 300/300. Total Completed: 184500/220200 (83.79%). Speed: 1133.8 profiles/min. ETA: 0.52 hours.
+[2026-07-03 14:28:33] Batch processed. Fetched: 300/300. Total Completed: 184800/220200 (83.92%). Speed: 1133.5 profiles/min. ETA: 0.52 hours.
+[2026-07-03 14:28:40] Batch processed. Fetched: 300/300. Total Completed: 185100/220200 (84.06%). Speed: 1133.3 profiles/min. ETA: 0.52 hours.
+[2026-07-03 14:28:46] Batch processed. Fetched: 300/300. Total Completed: 185400/220200 (84.20%). Speed: 1133.2 profiles/min. ETA: 0.51 hours.
+[2026-07-03 14:28:53] Batch processed. Fetched: 300/300. Total Completed: 185700/220200 (84.33%). Speed: 1133.5 profiles/min. ETA: 0.51 hours.
+[2026-07-03 14:28:59] Batch processed. Fetched: 300/300. Total Completed: 186000/220200 (84.47%). Speed: 1133.2 profiles/min. ETA: 0.50 hours.
+[2026-07-03 14:29:06] Batch processed. Fetched: 300/300. Total Completed: 186300/220200 (84.60%). Speed: 1133.1 profiles/min. ETA: 0.50 hours.
+[2026-07-03 14:29:12] Batch processed. Fetched: 300/300. Total Completed: 186600/220200 (84.74%). Speed: 1132.9 profiles/min. ETA: 0.49 hours.
+[2026-07-03 14:29:19] Batch processed. Fetched: 300/300. Total Completed: 186900/220200 (84.88%). Speed: 1131.8 profiles/min. ETA: 0.49 hours.
+[2026-07-03 14:29:26] Reducing normal delay to 4.90 seconds after 10 consecutive successes.
+[2026-07-03 14:29:26] Batch processed. Fetched: 300/300. Total Completed: 187200/220200 (85.01%). Speed: 1132.3 profiles/min. ETA: 0.49 hours.
+[2026-07-03 14:29:32] Batch processed. Fetched: 300/300. Total Completed: 187500/220200 (85.15%). Speed: 2084.9 profiles/min. ETA: 0.26 hours.
+[2026-07-03 14:29:38] Batch processed. Fetched: 300/300. Total Completed: 187800/220200 (85.29%). Speed: 2084.9 profiles/min. ETA: 0.26 hours.
+[2026-07-03 14:29:45] Batch processed. Fetched: 300/300. Total Completed: 188100/220200 (85.42%). Speed: 2084.6 profiles/min. ETA: 0.26 hours.
+[2026-07-03 14:29:51] Batch processed. Fetched: 300/300. Total Completed: 188400/220200 (85.56%). Speed: 2083.9 profiles/min. ETA: 0.25 hours.
+[2026-07-03 14:29:58] Batch processed. Fetched: 300/300. Total Completed: 188700/220200 (85.69%). Speed: 2083.0 profiles/min. ETA: 0.25 hours.
+[2026-07-03 14:30:04] Batch processed. Fetched: 300/300. Total Completed: 189000/220200 (85.83%). Speed: 2082.6 profiles/min. ETA: 0.25 hours.
+[2026-07-03 14:30:10] Batch processed. Fetched: 300/300. Total Completed: 189300/220200 (85.97%). Speed: 2082.2 profiles/min. ETA: 0.25 hours.
+[2026-07-03 14:30:17] Batch processed. Fetched: 300/300. Total Completed: 189600/220200 (86.10%). Speed: 2082.4 profiles/min. ETA: 0.24 hours.
+[2026-07-03 14:30:23] Batch processed. Fetched: 300/300. Total Completed: 189900/220200 (86.24%). Speed: 2081.9 profiles/min. ETA: 0.24 hours.
+[2026-07-03 14:30:29] Reducing normal delay to 4.80 seconds after 10 consecutive successes.
+[2026-07-03 14:30:29] Batch processed. Fetched: 300/300. Total Completed: 190200/220200 (86.38%). Speed: 2081.4 profiles/min. ETA: 0.24 hours.
+[2026-07-03 14:30:36] Batch processed. Fetched: 300/300. Total Completed: 190500/220200 (86.51%). Speed: 2081.4 profiles/min. ETA: 0.24 hours.
+[2026-07-03 14:30:42] Batch processed. Fetched: 300/300. Total Completed: 190800/220200 (86.65%). Speed: 2081.6 profiles/min. ETA: 0.24 hours.
+[2026-07-03 14:30:48] Batch processed. Fetched: 300/300. Total Completed: 191100/220200 (86.78%). Speed: 2080.6 profiles/min. ETA: 0.23 hours.
+[2026-07-03 14:30:54] Batch processed. Fetched: 300/300. Total Completed: 191400/220200 (86.92%). Speed: 2080.5 profiles/min. ETA: 0.23 hours.
+[2026-07-03 14:31:01] Batch processed. Fetched: 300/300. Total Completed: 191700/220200 (87.06%). Speed: 2079.9 profiles/min. ETA: 0.23 hours.
+[2026-07-03 14:31:07] Batch processed. Fetched: 300/300. Total Completed: 192000/220200 (87.19%). Speed: 2082.2 profiles/min. ETA: 0.23 hours.
+[2026-07-03 14:31:13] Batch processed. Fetched: 300/300. Total Completed: 192300/220200 (87.33%). Speed: 2081.5 profiles/min. ETA: 0.22 hours.
+[2026-07-03 14:31:20] Batch processed. Fetched: 300/300. Total Completed: 192600/220200 (87.47%). Speed: 2080.9 profiles/min. ETA: 0.22 hours.
+[2026-07-03 14:31:26] Batch processed. Fetched: 300/300. Total Completed: 192900/220200 (87.60%). Speed: 2080.1 profiles/min. ETA: 0.22 hours.
+[2026-07-03 14:31:32] Reducing normal delay to 4.70 seconds after 10 consecutive successes.
+[2026-07-03 14:31:32] Batch processed. Fetched: 300/300. Total Completed: 193200/220200 (87.74%). Speed: 2080.3 profiles/min. ETA: 0.22 hours.
+[2026-07-03 14:31:38] Batch processed. Fetched: 300/300. Total Completed: 193500/220200 (87.87%). Speed: 2080.2 profiles/min. ETA: 0.21 hours.
+[2026-07-03 14:31:44] Batch processed. Fetched: 300/300. Total Completed: 193800/220200 (88.01%). Speed: 2078.8 profiles/min. ETA: 0.21 hours.
+[2026-07-03 14:31:51] Batch processed. Fetched: 300/300. Total Completed: 194100/220200 (88.15%). Speed: 2078.6 profiles/min. ETA: 0.21 hours.
+[2026-07-03 14:31:57] Batch processed. Fetched: 300/300. Total Completed: 194400/220200 (88.28%). Speed: 2078.7 profiles/min. ETA: 0.21 hours.
+[2026-07-03 14:32:03] Batch processed. Fetched: 300/300. Total Completed: 194700/220200 (88.42%). Speed: 2078.7 profiles/min. ETA: 0.20 hours.
+[2026-07-03 14:32:09] Batch processed. Fetched: 300/300. Total Completed: 195000/220200 (88.56%). Speed: 2079.5 profiles/min. ETA: 0.20 hours.
+[2026-07-03 14:32:15] Batch processed. Fetched: 300/300. Total Completed: 195300/220200 (88.69%). Speed: 2079.3 profiles/min. ETA: 0.20 hours.
+[2026-07-03 14:32:21] Batch processed. Fetched: 300/300. Total Completed: 195600/220200 (88.83%). Speed: 2076.4 profiles/min. ETA: 0.20 hours.
+[2026-07-03 14:32:27] Batch processed. Fetched: 300/300. Total Completed: 195900/220200 (88.96%). Speed: 2076.7 profiles/min. ETA: 0.20 hours.
+[2026-07-03 14:32:34] Reducing normal delay to 4.60 seconds after 10 consecutive successes.
+[2026-07-03 14:32:34] Batch processed. Fetched: 300/300. Total Completed: 196200/220200 (89.10%). Speed: 2075.4 profiles/min. ETA: 0.19 hours.
+[2026-07-03 14:32:39] HTTP 429 Too Many Requests. Increasing normal delay to 5.00 seconds.
+[2026-07-03 14:32:39] Waiting 60 seconds before retry (429 count: 1)...
+[2026-07-03 14:33:41] HTTP 429 Too Many Requests. Increasing normal delay to 5.00 seconds.
+[2026-07-03 14:33:41] Waiting 120 seconds before retry (429 count: 2)...
+[2026-07-03 14:35:42] HTTP 429 Too Many Requests. Increasing normal delay to 5.00 seconds.
+[2026-07-03 14:35:42] Waiting 180 seconds before retry (429 count: 3)...
+[2026-07-03 14:38:43] Batch processed. Fetched: 300/300. Total Completed: 196500/220200 (89.24%). Speed: 1129.1 profiles/min. ETA: 0.35 hours.
+[2026-07-03 14:38:50] Batch processed. Fetched: 300/300. Total Completed: 196800/220200 (89.37%). Speed: 1129.4 profiles/min. ETA: 0.35 hours.
+[2026-07-03 14:38:56] Batch processed. Fetched: 300/300. Total Completed: 197100/220200 (89.51%). Speed: 1129.6 profiles/min. ETA: 0.34 hours.
+[2026-07-03 14:39:03] Batch processed. Fetched: 300/300. Total Completed: 197400/220200 (89.65%). Speed: 1129.7 profiles/min. ETA: 0.34 hours.
+[2026-07-03 14:39:09] Batch processed. Fetched: 300/300. Total Completed: 197700/220200 (89.78%). Speed: 1129.8 profiles/min. ETA: 0.33 hours.
+[2026-07-03 14:39:15] Batch processed. Fetched: 300/300. Total Completed: 198000/220200 (89.92%). Speed: 1130.0 profiles/min. ETA: 0.33 hours.
+[2026-07-03 14:39:22] Batch processed. Fetched: 300/300. Total Completed: 198300/220200 (90.05%). Speed: 1129.9 profiles/min. ETA: 0.32 hours.
+[2026-07-03 14:39:28] Batch processed. Fetched: 300/300. Total Completed: 198600/220200 (90.19%). Speed: 1129.8 profiles/min. ETA: 0.32 hours.
+[2026-07-03 14:39:35] Batch processed. Fetched: 300/300. Total Completed: 198900/220200 (90.33%). Speed: 1129.7 profiles/min. ETA: 0.31 hours.
+[2026-07-03 14:39:41] Reducing normal delay to 4.90 seconds after 10 consecutive successes.
+[2026-07-03 14:39:41] Batch processed. Fetched: 300/300. Total Completed: 199200/220200 (90.46%). Speed: 1129.6 profiles/min. ETA: 0.31 hours.
+[2026-07-03 14:39:47] Batch processed. Fetched: 300/300. Total Completed: 199500/220200 (90.60%). Speed: 2075.8 profiles/min. ETA: 0.17 hours.
+[2026-07-03 14:39:54] Batch processed. Fetched: 300/300. Total Completed: 199800/220200 (90.74%). Speed: 2076.6 profiles/min. ETA: 0.16 hours.
+[2026-07-03 14:40:00] Batch processed. Fetched: 300/300. Total Completed: 200100/220200 (90.87%). Speed: 2077.1 profiles/min. ETA: 0.16 hours.
+[2026-07-03 14:40:07] Batch processed. Fetched: 300/300. Total Completed: 200400/220200 (91.01%). Speed: 2075.5 profiles/min. ETA: 0.16 hours.
+[2026-07-03 14:40:13] Batch processed. Fetched: 300/300. Total Completed: 200700/220200 (91.14%). Speed: 2075.3 profiles/min. ETA: 0.16 hours.
+[2026-07-03 14:40:19] Batch processed. Fetched: 300/300. Total Completed: 201000/220200 (91.28%). Speed: 2075.8 profiles/min. ETA: 0.15 hours.
+[2026-07-03 14:40:26] Batch processed. Fetched: 300/300. Total Completed: 201300/220200 (91.42%). Speed: 2075.8 profiles/min. ETA: 0.15 hours.
+[2026-07-03 14:40:32] Batch processed. Fetched: 300/300. Total Completed: 201600/220200 (91.55%). Speed: 2075.6 profiles/min. ETA: 0.15 hours.
+[2026-07-03 14:40:38] Batch processed. Fetched: 300/300. Total Completed: 201900/220200 (91.69%). Speed: 2079.0 profiles/min. ETA: 0.15 hours.
+[2026-07-03 14:40:45] Reducing normal delay to 4.80 seconds after 10 consecutive successes.
+[2026-07-03 14:40:45] Batch processed. Fetched: 300/300. Total Completed: 202200/220200 (91.83%). Speed: 2076.2 profiles/min. ETA: 0.14 hours.
+[2026-07-03 14:40:52] Batch processed. Fetched: 300/300. Total Completed: 202500/220200 (91.96%). Speed: 2076.2 profiles/min. ETA: 0.14 hours.
+[2026-07-03 14:40:58] Batch processed. Fetched: 300/300. Total Completed: 202800/220200 (92.10%). Speed: 2076.8 profiles/min. ETA: 0.14 hours.
+[2026-07-03 14:41:04] Batch processed. Fetched: 300/300. Total Completed: 203100/220200 (92.23%). Speed: 2077.0 profiles/min. ETA: 0.14 hours.
+[2026-07-03 14:41:10] Batch processed. Fetched: 300/300. Total Completed: 203400/220200 (92.37%). Speed: 2077.3 profiles/min. ETA: 0.13 hours.
+[2026-07-03 14:41:16] Batch processed. Fetched: 300/300. Total Completed: 203700/220200 (92.51%). Speed: 2077.8 profiles/min. ETA: 0.13 hours.
+[2026-07-03 14:41:22] Batch processed. Fetched: 300/300. Total Completed: 204000/220200 (92.64%). Speed: 2078.7 profiles/min. ETA: 0.13 hours.
+[2026-07-03 14:41:29] Batch processed. Fetched: 300/300. Total Completed: 204300/220200 (92.78%). Speed: 2078.7 profiles/min. ETA: 0.13 hours.
+[2026-07-03 14:41:35] Batch processed. Fetched: 300/300. Total Completed: 204600/220200 (92.92%). Speed: 2078.3 profiles/min. ETA: 0.13 hours.
+[2026-07-03 14:41:41] Batch processed. Fetched: 300/300. Total Completed: 204900/220200 (93.05%). Speed: 2078.4 profiles/min. ETA: 0.12 hours.
+[2026-07-03 14:41:47] Reducing normal delay to 4.70 seconds after 10 consecutive successes.
+[2026-07-03 14:41:47] Batch processed. Fetched: 300/300. Total Completed: 205200/220200 (93.19%). Speed: 2078.8 profiles/min. ETA: 0.12 hours.
+[2026-07-03 14:41:53] Batch processed. Fetched: 300/300. Total Completed: 205500/220200 (93.32%). Speed: 2078.7 profiles/min. ETA: 0.12 hours.
+[2026-07-03 14:42:00] Batch processed. Fetched: 300/300. Total Completed: 205800/220200 (93.46%). Speed: 2077.6 profiles/min. ETA: 0.12 hours.
+[2026-07-03 14:42:06] Batch processed. Fetched: 300/300. Total Completed: 206100/220200 (93.60%). Speed: 2078.2 profiles/min. ETA: 0.11 hours.
+[2026-07-03 14:42:12] Batch processed. Fetched: 300/300. Total Completed: 206400/220200 (93.73%). Speed: 2079.0 profiles/min. ETA: 0.11 hours.
+[2026-07-03 14:42:18] Batch processed. Fetched: 300/300. Total Completed: 206700/220200 (93.87%). Speed: 2079.4 profiles/min. ETA: 0.11 hours.
+[2026-07-03 14:42:24] Batch processed. Fetched: 300/300. Total Completed: 207000/220200 (94.01%). Speed: 2079.5 profiles/min. ETA: 0.11 hours.
+[2026-07-03 14:42:30] Batch processed. Fetched: 300/300. Total Completed: 207300/220200 (94.14%). Speed: 2080.1 profiles/min. ETA: 0.10 hours.
+[2026-07-03 14:42:37] Batch processed. Fetched: 300/300. Total Completed: 207600/220200 (94.28%). Speed: 2079.3 profiles/min. ETA: 0.10 hours.
+[2026-07-03 14:42:43] Batch processed. Fetched: 300/300. Total Completed: 207900/220200 (94.41%). Speed: 2079.4 profiles/min. ETA: 0.10 hours.
+[2026-07-03 14:42:49] Reducing normal delay to 4.60 seconds after 10 consecutive successes.
+[2026-07-03 14:42:49] Batch processed. Fetched: 300/300. Total Completed: 208200/220200 (94.55%). Speed: 2079.4 profiles/min. ETA: 0.10 hours.
+[2026-07-03 14:42:55] HTTP 429 Too Many Requests. Increasing normal delay to 5.00 seconds.
+[2026-07-03 14:42:55] Waiting 60 seconds before retry (429 count: 1)...
+[2026-07-03 14:43:56] HTTP 429 Too Many Requests. Increasing normal delay to 5.00 seconds.
+[2026-07-03 14:43:56] Waiting 120 seconds before retry (429 count: 2)...
+[2026-07-03 14:45:57] HTTP 429 Too Many Requests. Increasing normal delay to 5.00 seconds.
+[2026-07-03 14:45:57] Waiting 180 seconds before retry (429 count: 3)...
+[2026-07-03 14:48:58] Batch processed. Fetched: 300/300. Total Completed: 208500/220200 (94.69%). Speed: 1130.5 profiles/min. ETA: 0.17 hours.
+[2026-07-03 14:49:05] Batch processed. Fetched: 300/300. Total Completed: 208800/220200 (94.82%). Speed: 1130.9 profiles/min. ETA: 0.17 hours.
+[2026-07-03 14:49:11] Batch processed. Fetched: 300/300. Total Completed: 209100/220200 (94.96%). Speed: 1130.7 profiles/min. ETA: 0.16 hours.
+[2026-07-03 14:49:18] Batch processed. Fetched: 300/300. Total Completed: 209400/220200 (95.10%). Speed: 1130.5 profiles/min. ETA: 0.16 hours.
+[2026-07-03 14:49:24] Batch processed. Fetched: 300/300. Total Completed: 209700/220200 (95.23%). Speed: 1130.4 profiles/min. ETA: 0.15 hours.
+[2026-07-03 14:49:31] Batch processed. Fetched: 300/300. Total Completed: 210000/220200 (95.37%). Speed: 1130.0 profiles/min. ETA: 0.15 hours.
+[2026-07-03 14:49:37] Batch processed. Fetched: 300/300. Total Completed: 210300/220200 (95.50%). Speed: 1130.0 profiles/min. ETA: 0.15 hours.
+[2026-07-03 14:49:43] Batch processed. Fetched: 300/300. Total Completed: 210600/220200 (95.64%). Speed: 1130.9 profiles/min. ETA: 0.14 hours.
+[2026-07-03 14:49:50] Batch processed. Fetched: 300/300. Total Completed: 210900/220200 (95.78%). Speed: 1130.7 profiles/min. ETA: 0.14 hours.
+[2026-07-03 14:49:56] Reducing normal delay to 4.90 seconds after 10 consecutive successes.
+[2026-07-03 14:49:56] Batch processed. Fetched: 300/300. Total Completed: 211200/220200 (95.91%). Speed: 1131.1 profiles/min. ETA: 0.13 hours.
+[2026-07-03 14:50:02] Batch processed. Fetched: 300/300. Total Completed: 211500/220200 (96.05%). Speed: 2084.5 profiles/min. ETA: 0.07 hours.
+[2026-07-03 14:50:08] Batch processed. Fetched: 300/300. Total Completed: 211800/220200 (96.19%). Speed: 2084.6 profiles/min. ETA: 0.07 hours.
+[2026-07-03 14:50:15] Batch processed. Fetched: 300/300. Total Completed: 212100/220200 (96.32%). Speed: 2084.5 profiles/min. ETA: 0.06 hours.
+[2026-07-03 14:50:21] Batch processed. Fetched: 300/300. Total Completed: 212400/220200 (96.46%). Speed: 2084.6 profiles/min. ETA: 0.06 hours.
+[2026-07-03 14:50:27] Batch processed. Fetched: 300/300. Total Completed: 212700/220200 (96.59%). Speed: 2084.1 profiles/min. ETA: 0.06 hours.
+[2026-07-03 14:50:34] Batch processed. Fetched: 300/300. Total Completed: 213000/220200 (96.73%). Speed: 2083.9 profiles/min. ETA: 0.06 hours.
+[2026-07-03 14:50:40] Batch processed. Fetched: 300/300. Total Completed: 213300/220200 (96.87%). Speed: 2083.0 profiles/min. ETA: 0.06 hours.
+[2026-07-03 14:50:46] Batch processed. Fetched: 300/300. Total Completed: 213600/220200 (97.00%). Speed: 2083.5 profiles/min. ETA: 0.05 hours.
+[2026-07-03 14:50:53] Batch processed. Fetched: 300/300. Total Completed: 213900/220200 (97.14%). Speed: 2083.4 profiles/min. ETA: 0.05 hours.
+[2026-07-03 14:50:59] Reducing normal delay to 4.80 seconds after 10 consecutive successes.
+[2026-07-03 14:50:59] Batch processed. Fetched: 300/300. Total Completed: 214200/220200 (97.28%). Speed: 2082.8 profiles/min. ETA: 0.05 hours.
+[2026-07-03 14:51:05] Batch processed. Fetched: 300/300. Total Completed: 214500/220200 (97.41%). Speed: 2083.0 profiles/min. ETA: 0.05 hours.
+[2026-07-03 14:51:11] Batch processed. Fetched: 300/300. Total Completed: 214800/220200 (97.55%). Speed: 2083.5 profiles/min. ETA: 0.04 hours.
+[2026-07-03 14:51:18] Batch processed. Fetched: 300/300. Total Completed: 215100/220200 (97.68%). Speed: 2083.8 profiles/min. ETA: 0.04 hours.
+[2026-07-03 14:51:24] Batch processed. Fetched: 300/300. Total Completed: 215400/220200 (97.82%). Speed: 2085.6 profiles/min. ETA: 0.04 hours.
+[2026-07-03 14:51:30] Batch processed. Fetched: 300/300. Total Completed: 215700/220200 (97.96%). Speed: 2084.9 profiles/min. ETA: 0.04 hours.
+[2026-07-03 14:51:36] Batch processed. Fetched: 300/300. Total Completed: 216000/220200 (98.09%). Speed: 2084.2 profiles/min. ETA: 0.03 hours.
+[2026-07-03 14:51:43] Batch processed. Fetched: 300/300. Total Completed: 216300/220200 (98.23%). Speed: 2085.5 profiles/min. ETA: 0.03 hours.
+[2026-07-03 14:51:49] Batch processed. Fetched: 300/300. Total Completed: 216600/220200 (98.37%). Speed: 2084.3 profiles/min. ETA: 0.03 hours.
+[2026-07-03 14:51:55] Batch processed. Fetched: 300/300. Total Completed: 216900/220200 (98.50%). Speed: 2083.9 profiles/min. ETA: 0.03 hours.
+[2026-07-03 14:52:01] Reducing normal delay to 4.70 seconds after 10 consecutive successes.
+[2026-07-03 14:52:02] Batch processed. Fetched: 300/300. Total Completed: 217200/220200 (98.64%). Speed: 2086.5 profiles/min. ETA: 0.02 hours.
+[2026-07-03 14:52:08] Batch processed. Fetched: 300/300. Total Completed: 217500/220200 (98.77%). Speed: 2086.1 profiles/min. ETA: 0.02 hours.
+[2026-07-03 14:52:14] Batch processed. Fetched: 300/300. Total Completed: 217800/220200 (98.91%). Speed: 2085.9 profiles/min. ETA: 0.02 hours.
+[2026-07-03 14:52:20] Batch processed. Fetched: 300/300. Total Completed: 218100/220200 (99.05%). Speed: 2085.9 profiles/min. ETA: 0.02 hours.
+[2026-07-03 14:52:26] Batch processed. Fetched: 300/300. Total Completed: 218400/220200 (99.18%). Speed: 2085.8 profiles/min. ETA: 0.01 hours.
+[2026-07-03 14:52:32] Batch processed. Fetched: 300/300. Total Completed: 218700/220200 (99.32%). Speed: 2086.0 profiles/min. ETA: 0.01 hours.
+[2026-07-03 14:52:39] Batch processed. Fetched: 300/300. Total Completed: 219000/220200 (99.46%). Speed: 2080.0 profiles/min. ETA: 0.01 hours.
+[2026-07-03 14:52:46] Batch processed. Fetched: 300/300. Total Completed: 219300/220200 (99.59%). Speed: 2079.5 profiles/min. ETA: 0.01 hours.
+[2026-07-03 14:52:52] Batch processed. Fetched: 300/300. Total Completed: 219600/220200 (99.73%). Speed: 2079.5 profiles/min. ETA: 0.00 hours.
+[2026-07-03 14:52:58] Batch processed. Fetched: 300/300. Total Completed: 219900/220200 (99.86%). Speed: 2079.5 profiles/min. ETA: 0.00 hours.
+[2026-07-03 14:53:04] Reducing normal delay to 4.60 seconds after 10 consecutive successes.
+[2026-07-03 14:53:04] Batch processed. Fetched: 300/300. Total Completed: 220200/220200 (100.00%). Speed: 2079.4 profiles/min. ETA: 0 hours.
+[2026-07-03 14:53:09] Successfully reached target of 220200 profiles!
+[2026-07-03 14:53:09] Execution completed successfully.
+[2026-07-03 14:53:09] Database connection closed.
