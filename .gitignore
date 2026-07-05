@@ -9,14 +9,6 @@ __pycache__/
 env/
 venv/
 
-# SQLite database & logs (generated data)
-*.db
-*.sqlite3
-download.log
-
-# Model artifacts
-model_params.json
-
 # IDE
 .vscode/
 .idea/
