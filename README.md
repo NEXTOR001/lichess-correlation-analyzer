@@ -93,8 +93,6 @@ python interactive_predict.py
 
 Дашборд также опубликован через GitHub Pages: [https://nextor001.github.io/lichess-correlation-analyzer/](https://nextor001.github.io/lichess-correlation-analyzer/) (страница `index.html` автоматически перенаправляет на `rating_predictor_boost.html`).
 
-> ℹ️ Чтобы публикация заработала, в репозитории нужно один раз включить GitHub Pages: **Settings → Pages → Build and deployment → Source: Deploy from a branch → Branch: `main` / `(root)`**.
-
 ## 🛠️ Технологии
 
 - Python, SQLite
