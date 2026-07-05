@@ -1,0 +1,195 @@
+{
+  "blitz": {
+    "intercept": 1707.7556703346058,
+    "coefs": [
+      180.66969203995265,
+      48.95434413604036,
+      106.69378597514692,
+      -30.495684533591138,
+      -15.800041669066065,
+      -6.63098656938521,
+      57.82311493799313
+    ],
+    "scaler_mean": [
+      33.996182348978216,
+      34.491354143274194,
+      2065.064450931956,
+      136.31237368066473,
+      207.16258701998652,
+      4462.818549292611,
+      486.42476083539185
+    ],
+    "scaler_std": [
+      12.68409847666423,
+      16.83138474676744,
+      344.87882460515544,
+      363.56454906354105,
+      694.5484452826877,
+      9176.66905846673,
+      652.1860632010304
+    ],
+    "n_samples": 4453,
+    "storm_score_min": 12.0,
+    "storm_score_max": 68.0,
+    "storm_score_median": 32.0,
+    "streak_score_min": 7.0,
+    "streak_score_max": 85.47999999999956,
+    "streak_score_median": 32.0,
+    "puzzle_rating_min": 1200.08,
+    "puzzle_rating_max": 2848.959999999999,
+    "puzzle_rating_median": 2090.0,
+    "storm_runs_min": 10.0,
+    "storm_runs_max": 1574.319999999996,
+    "storm_runs_median": 41.0,
+    "streak_runs_min": 10.0,
+    "streak_runs_max": 2506.4799999999886,
+    "streak_runs_median": 57.0,
+    "puzzle_games_min": 99.52000000000001,
+    "puzzle_games_max": 35095.15999999987,
+    "puzzle_games_median": 2317.0,
+    "playtime_hours_min": 19.066588888888887,
+    "playtime_hours_max": 3307.7127777777505,
+    "playtime_hours_median": 264.875
+  },
+  "bullet": {
+    "intercept": 1807.3296122209165,
+    "coefs": [
+      265.0786874315579,
+      23.545913664496474,
+      88.47066884289613,
+      -42.45821441161535,
+      -15.046577690019129,
+      -10.98351126021508,
+      52.6402003019213
+    ],
+    "scaler_mean": [
+      35.000293772032904,
+      34.951821386603996,
+      2078.298472385429,
+      133.2755581668625,
+      196.9870740305523,
+      4320.342831962397,
+      481.81404532249644
+    ],
+    "scaler_std": [
+      12.829591324150599,
+      16.954509006411048,
+      332.9165709741087,
+      378.28290832761206,
+      698.5154762589193,
+      9587.494588739308,
+      641.1391140127205
+    ],
+    "n_samples": 3404,
+    "storm_score_min": 12.0,
+    "storm_score_max": 68.0,
+    "storm_score_median": 33.0,
+    "streak_score_min": 7.0,
+    "streak_score_max": 86.0,
+    "streak_score_median": 33.0,
+    "puzzle_rating_min": 1238.12,
+    "puzzle_rating_max": 2846.579999999997,
+    "puzzle_rating_median": 2102.0,
+    "storm_runs_min": 10.0,
+    "storm_runs_max": 1568.949999999993,
+    "storm_runs_median": 40.0,
+    "streak_runs_min": 10.0,
+    "streak_runs_max": 2240.9399999999796,
+    "streak_runs_median": 55.5,
+    "puzzle_games_min": 99.24000000000001,
+    "puzzle_games_max": 31723.109999999786,
+    "puzzle_games_median": 2315.0,
+    "playtime_hours_min": 18.701347222222225,
+    "playtime_hours_max": 3240.364233333328,
+    "playtime_hours_median": 272.18416666666667
+  },
+  "rapid": {
+    "intercept": 1649.5014992503748,
+    "coefs": [
+      138.64391509233292,
+      58.38541570610029,
+      147.37293480765527,
+      -18.83876869640214,
+      -17.384129424707876,
+      -10.770163452243267,
+      57.96978447823651
+    ],
+    "scaler_mean": [
+      29.565217391304348,
+      29.474762618690654,
+      1970.8063468265866,
+      101.62943528235883,
+      198.09470264867565,
+      4371.772863568216,
+      385.25261251318784
+    ],
+    "scaler_std": [
+      12.001098132547034,
+      15.899499700014669,
+      376.0760290684288,
+      287.04958479514545,
+      555.8475506172177,
+      9001.184771905542,
+      537.2797366911874
+    ],
+    "n_samples": 4002,
+    "storm_score_min": 9.0,
+    "storm_score_max": 64.0,
+    "storm_score_median": 28.0,
+    "streak_score_min": 5.0,
+    "streak_score_max": 78.0,
+    "streak_score_median": 27.0,
+    "puzzle_rating_min": 1053.02,
+    "puzzle_rating_max": 2854.949999999999,
+    "puzzle_rating_median": 2002.0,
+    "storm_runs_min": 10.0,
+    "storm_runs_max": 1159.859999999997,
+    "storm_runs_median": 34.0,
+    "streak_runs_min": 10.0,
+    "streak_runs_max": 2184.719999999994,
+    "streak_runs_median": 61.0,
+    "puzzle_games_min": 125.00999999999999,
+    "puzzle_games_max": 31805.47999999977,
+    "puzzle_games_median": 2437.5,
+    "playtime_hours_min": 20.280594444444443,
+    "playtime_hours_max": 2874.9835277777756,
+    "playtime_hours_median": 221.9325
+  },
+  "global_ranges": {
+    "storm_score": {
+      "min": 10.0,
+      "max": 66.0,
+      "median": 30.0
+    },
+    "streak_score": {
+      "min": 6.0,
+      "max": 83.0,
+      "median": 30.0
+    },
+    "puzzle_rating": {
+      "min": 1088.04,
+      "max": 2829.76,
+      "median": 2037.0
+    },
+    "storm_runs": {
+      "min": 10.0,
+      "max": 1406.92,
+      "median": 37.0
+    },
+    "streak_runs": {
+      "min": 10.0,
+      "max": 2279.5200000000013,
+      "median": 58.0
+    },
+    "puzzle_games": {
+      "min": 103.0,
+      "max": 31857.280000000002,
+      "median": 2334.0
+    },
+    "playtime_hours": {
+      "min": 17.257122222222222,
+      "max": 2942.266611111111,
+      "median": 229.04777777777778
+    }
+  }
+}
